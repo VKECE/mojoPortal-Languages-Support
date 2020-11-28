@@ -112,10 +112,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="TimeZoneLabelAbuDhabiMuscatBakuTbilisi" xml:space="preserve">
     <value>(GMT + 4:00) Abu Dhabi, Muscat, Baku, Tbilisi</value>
@@ -137,9 +137,6 @@
   </data>
   <data name="TimeZoneLabelAzoresCapeVerdeIslands" xml:space="preserve">
     <value>(GMT - 1:00) Azores, Cape Verde Islands</value>
-  </data>
-  <data name="TimeZoneLabelBaghdadKuwaitRiyadhMoscowStPetersburgVolgogradNairobi" xml:space="preserve">
-    <value>(GMT + 3:00) Baghdad, Kuwait, Riyadh, Moscow, St. Petersburg, Volgograd, Nairobi</value>
   </data>
   <data name="TimeZoneLabelBangkokHanoiJakarta" xml:space="preserve">
     <value>(GMT + 7:00) Bangkok, Hanoi, Jakarta</value>
@@ -166,7 +163,7 @@
     <value>(GMT - 5:00) Eastern Time (US &amp; Canada)</value>
   </data>
   <data name="TimeZoneLabelEasternEurope" xml:space="preserve">
-    <value>(GMT + 2:00) EET(Eastern Europe Time), Athens, Bucharest, Istanbul</value>
+    <value>(GMT + 2:00) EET(Eastern Europe Time), Athens, Bucharest, Ankara</value>
   </data>
   <data name="TimeZoneLabelEkaterinburgIslamabadKarachiTashkent" xml:space="preserve">
     <value>(GMT + 5:00) Ekaterinburg, Islamabad, Karachi, Tashkent</value>
@@ -179,6 +176,9 @@
   </data>
   <data name="TimeZoneLabelHawaii" xml:space="preserve">
     <value>(GMT - 10:00) Hawaii</value>
+  </data>
+  <data name="TimeZoneLabelIstanbulBaghdadKuwaitRiyadhMoscowStPetersburgVolgogradNairobi" xml:space="preserve">
+    <value>(GMT + 3:00) Istanbul, Baghdad, Kuwait, Riyadh, Moscow, St. Petersburg, Volgograd, Nairobi</value>
   </data>
   <data name="TimeZoneLabelKabul" xml:space="preserve">
     <value>(GMT + 4:30) Kabul</value>
@@ -232,7 +232,7 @@
     <value>(GMT + 2:00) EET(Eastern Europe Time), Kaliningrad, South Africa</value>
   </data>
   <data name="TZ3" xml:space="preserve">
-    <value>(GMT + 3:00) Baghdad, Kuwait, Riyadh, Moscow, St. Petersburg, Volgograd, Nairobi</value>
+    <value>(GMT + 3:00) Istanbul, Baghdad, Kuwait, Riyadh, Moscow, St. Petersburg, Volgograd, Nairobi</value>
   </data>
   <data name="TZ35" xml:space="preserve">
     <value>(GMT + 3:50) Tehran</value>
@@ -302,5 +302,8 @@
   </data>
   <data name="TZminus9" xml:space="preserve">
     <value>(GMT - 9:00) Alaska</value>
+  </data>
+  <data name="TimeZoneLabelBaghdadKuwaitRiyadhMoscowStPetersburgVolgogradNairobi" xml:space="preserve">
+    <value>(GMT + 3:00) Baghdad, Kuwait, Riyadh, Moscow, St. Petersburg, Volgograd, Nairobi</value>
   </data>
 </root>

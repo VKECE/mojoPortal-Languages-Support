@@ -214,9 +214,18 @@
     <value>Konum</value>
   </data>
   <data name="CustomCssClassSetting" xml:space="preserve">
-    <value>Custom CSS Class</value>
+    <value>Özel CSS Sınıfı</value>
   </data>
   <data name="CustomCssClassSettingRegexWarning" xml:space="preserve">
     <value>Invalid Custom CSS Class</value>
+  </data>
+  <data name="EnableMapSetting" xml:space="preserve">
+    <value>Haritayı Aktifleştir</value>
+  </data>
+  <data name="ShowMap" xml:space="preserve">
+    <value>Haritayı Göster</value>
+  </data>
+  <data name="ShowTimeInMonthViewSetting" xml:space="preserve">
+    <value>Zamanı Ay Görünümünde Göster:</value>
   </data>
 </root>

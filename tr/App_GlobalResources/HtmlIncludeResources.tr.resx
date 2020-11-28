@@ -145,9 +145,9 @@
     <value>Parça dosyası:</value>
   </data>
   <data name="CustomCssClassSetting" xml:space="preserve">
-    <value>Custom CSS Class</value>
+    <value>Özel CSS Sınıfı</value>
   </data>
   <data name="CustomCssClassSettingRegexWarning" xml:space="preserve">
-    <value>Invalid Custom CSS Class</value>
+    <value>Hatalı Özel CSS Sınıfı</value>
   </data>
 </root>

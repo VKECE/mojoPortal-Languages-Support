@@ -229,7 +229,7 @@
     <value>Edit Intro</value>
   </data>
   <data name="LinksExtraCssClassSettingRegexWarning" xml:space="preserve">
-    <value>Invalid Custom CSS Class</value>
+    <value>Hatalı Özel CSS Class</value>
   </data>
   <data name="ShowPageLeftContentSetting" xml:space="preserve">
     <value>Show Page Left Content In List View?</value>

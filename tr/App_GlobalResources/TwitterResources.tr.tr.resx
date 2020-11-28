@@ -112,63 +112,57 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccessDenied" xml:space="preserve">
-    <value>Erişim Yasak.</value>
+  <data name="FeatureName" xml:space="preserve">
+    <value>Twitter Profil Widget'ı</value>
   </data>
-  <data name="AuthenticationFailed" xml:space="preserve">
-    <value>Kullanıcı kimlik doğrulaması başarısız.</value>
+  <data name="LoopTweets" xml:space="preserve">
+    <value>Döngü Tweetleri</value>
   </data>
-  <data name="ContentInstanceNotFound" xml:space="preserve">
-    <value>İçerik Örneği bulunamadı.</value>
+  <data name="NoAccountConfigured" xml:space="preserve">
+    <value>Ayarlar'da bir Twitter Kullanıcısı belirtmelisiniz</value>
   </data>
-  <data name="DeletingPagesDisabled" xml:space="preserve">
-    <value>Sayfaların xmlrpc ile silinmesine bu sitede izin verilmiyor.</value>
+  <data name="NoSearchTermsConfigured" xml:space="preserve">
+    <value>Ayarlar'da Twitter için arama terimleri belirtmelisiniz</value>
   </data>
-  <data name="DescendentParentsNotAllowed" xml:space="preserve">
-    <value>Seçilen üst sayfa geçerli değil. Mevcut sayfanın alt sayfaları üst sayfa olamaz.</value>
+  <data name="SearchFeatureName" xml:space="preserve">
+    <value>Twitter Arama Widget'ı</value>
   </data>
-  <data name="FileExtensionNotAllowed" xml:space="preserve">
-    <value>Dosya uzantısına izin verilmiyor.</value>
+  <data name="SearchTerms" xml:space="preserve">
+    <value>Arama Terimleri</value>
   </data>
-  <data name="MetaweblogApiDisabled" xml:space="preserve">
-    <value>MetaWeblogApi bu sitede devre dışı bırakıldı.</value>
+  <data name="ShellBackColor" xml:space="preserve">
+    <value>Kabuk Arka Plan Rengi</value>
   </data>
-  <data name="NoBlogConfigured" xml:space="preserve">
-    <value>Yapılandırılmış blog yok.</value>
+  <data name="ShellForeColor" xml:space="preserve">
+    <value>Kabuk Ön Plan Rengi</value>
   </data>
-  <data name="NotAllowedParentPage" xml:space="preserve">
-    <value>Üzgünüz, seçili ana sayfanın altında alt sayfalar oluşturmanıza izin verilmiyor.</value>
+  <data name="Subject" xml:space="preserve">
+    <value>Konu</value>
   </data>
-  <data name="NotAllowedToCreateRootPages" xml:space="preserve">
-    <value>Üzgünüz, kök seviyesinde sayfalar yaratmanıza izin verilmiyor.</value>
+  <data name="Title" xml:space="preserve">
+    <value>Başlık</value>
   </data>
-  <data name="PageCantBeItsOwnParent" xml:space="preserve">
-    <value>Bir sayfanın kendi üst öğesi olamaz.</value>
+  <data name="TweetsBackColor" xml:space="preserve">
+    <value>Tweet Arka Plan Rengi</value>
   </data>
-  <data name="PageEditingDisabled" xml:space="preserve">
-    <value>Bu sitede xmlrpc tarafından Sayfa Düzenlemeye izin verilmiyor.</value>
+  <data name="TweetsForeColor" xml:space="preserve">
+    <value>Tweet Ön Plan Rengi</value>
   </data>
-  <data name="PageNotFound" xml:space="preserve">
-    <value>Sayfa bulunamadı.</value>
+  <data name="TweetsLinkColor" xml:space="preserve">
+    <value>Tweet Bağlantı Rengi</value>
   </data>
-  <data name="PagesOnly" xml:space="preserve">
-    <value>Yalnızca Sayfalar</value>
+  <data name="Username" xml:space="preserve">
+    <value>Twitter kullanıcı adı</value>
   </data>
-  <data name="ParentPageNotFound" xml:space="preserve">
-    <value>Seçili üst sayfa bulunamadı.</value>
+  <data name="WidgetHeight" xml:space="preserve">
+    <value>Yükseklik</value>
   </data>
-  <data name="PostNotFound" xml:space="preserve">
-    <value>Gönderi bulunamadı.</value>
-  </data>
-  <data name="SiteValidationFailed" xml:space="preserve">
-    <value>Site doğrulaması başarısız oldu.</value>
-  </data>
-  <data name="SSLRequired" xml:space="preserve">
-    <value>Bu metaweblogapi'ye erişmek için https kullanmanız gerekir.</value>
+  <data name="WidgetWidth" xml:space="preserve">
+    <value>Genişlik</value>
   </data>
 </root>

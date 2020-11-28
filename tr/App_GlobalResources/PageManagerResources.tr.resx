@@ -117,58 +117,94 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccessDenied" xml:space="preserve">
-    <value>Erişim Yasak.</value>
+  <data name="Administration" xml:space="preserve">
+    <value>Yönetim</value>
   </data>
-  <data name="AuthenticationFailed" xml:space="preserve">
-    <value>Kullanıcı kimlik doğrulaması başarısız.</value>
+  <data name="CantOrphanPagesWarning" xml:space="preserve">
+    <value>Bu sayfanın silinmesi, alt sayfalarının kök düzeyindeki sayfalara dönüşmesine neden olur, ancak kök düzeyinde sayfalar oluşturma izniniz yok. Lütfen bu sayfayı silmeden önce alt sayfaları silin veya taşıyın.</value>
   </data>
-  <data name="ContentInstanceNotFound" xml:space="preserve">
-    <value>İçerik Örneği bulunamadı.</value>
+  <data name="DeletePage" xml:space="preserve">
+    <value>Sayfayı Sil</value>
   </data>
-  <data name="DeletingPagesDisabled" xml:space="preserve">
-    <value>Sayfaların xmlrpc ile silinmesine bu sitede izin verilmiyor.</value>
+  <data name="DeletePageDeniedLogFormat" xml:space="preserve">
+    <value>İstek reddedildi: {0} kullanıcısı {1} {2} sayfasını silmeyi denedi, ancak izni yoktu.</value>
   </data>
-  <data name="DescendentParentsNotAllowed" xml:space="preserve">
-    <value>Seçilen üst sayfa geçerli değil. Mevcut sayfanın alt sayfaları üst sayfa olamaz.</value>
+  <data name="DeletePageNotAllowedFormat" xml:space="preserve">
+    <value>Sayfayı silme izniniz yok: {0}</value>
   </data>
-  <data name="FileExtensionNotAllowed" xml:space="preserve">
-    <value>Dosya uzantısına izin verilmiyor.</value>
+  <data name="DeletePageSuccessLogFormat" xml:space="preserve">
+    <value>kullanıcı {0} sayfayı sildi {1} {2}</value>
   </data>
-  <data name="MetaweblogApiDisabled" xml:space="preserve">
-    <value>MetaWeblogApi bu sitede devre dışı bırakıldı.</value>
+  <data name="DeletePageWarning" xml:space="preserve">
+    <value>Bu sayfayı silmek istediğinizden emin misiniz?</value>
   </data>
-  <data name="NoBlogConfigured" xml:space="preserve">
-    <value>Yapılandırılmış blog yok.</value>
+  <data name="DeletePageWithChildrenWarning" xml:space="preserve">
+    <value>Bu sayfayı silmek istediğinizden emin misiniz? Bu sayfanın alt sayfaları artık kalacak ve kök düzeyindeki sayfalar olacak.</value>
   </data>
-  <data name="NotAllowedParentPage" xml:space="preserve">
-    <value>Üzgünüz, seçili ana sayfanın altında alt sayfalar oluşturmanıza izin verilmiyor.</value>
+  <data name="EditPage" xml:space="preserve">
+    <value>Sayfayı düzenle</value>
   </data>
-  <data name="NotAllowedToCreateRootPages" xml:space="preserve">
-    <value>Üzgünüz, kök seviyesinde sayfalar yaratmanıza izin verilmiyor.</value>
+  <data name="EditPermissions" xml:space="preserve">
+    <value>İzinleri Düzenle</value>
   </data>
-  <data name="PageCantBeItsOwnParent" xml:space="preserve">
-    <value>Bir sayfanın kendi üst öğesi olamaz.</value>
+  <data name="EditSettings" xml:space="preserve">
+    <value>Ayarları Düzenle</value>
   </data>
-  <data name="PageEditingDisabled" xml:space="preserve">
-    <value>Bu sitede xmlrpc tarafından Sayfa Düzenlemeye izin verilmiyor.</value>
+  <data name="InvalidRequest" xml:space="preserve">
+    <value>Geçersiz istek</value>
   </data>
-  <data name="PageNotFound" xml:space="preserve">
-    <value>Sayfa bulunamadı.</value>
+  <data name="MoveNodeRequestDeniedFormat" xml:space="preserve">
+    <value>Talep reddedildi: {0} tried to move page node {1} {2} {3} page node {4} {5}</value>
   </data>
-  <data name="PagesOnly" xml:space="preserve">
-    <value>Yalnızca Sayfalar</value>
+  <data name="MoveNodeRequestLogFormat" xml:space="preserve">
+    <value>{0} sayfa düğümü {1} {2} {3} sayfa düğümü taşındı {4} {5}</value>
   </data>
-  <data name="ParentPageNotFound" xml:space="preserve">
-    <value>Seçili üst sayfa bulunamadı.</value>
+  <data name="MovePageConfirmPrompt" xml:space="preserve">
+    <value>Sayfayı taşımak istediğinizden emin misiniz?</value>
   </data>
-  <data name="PostNotFound" xml:space="preserve">
-    <value>Gönderi bulunamadı.</value>
+  <data name="MovePageNotAllowedFormat" xml:space="preserve">
+    <value>Sayfayı düzenleme veya taşıma izniniz yok: {0}</value>
   </data>
-  <data name="SiteValidationFailed" xml:space="preserve">
-    <value>Site doğrulaması başarısız oldu.</value>
+  <data name="MoveToNewParentNotAllowedFormat" xml:space="preserve">
+    <value>Aşağıda alt sayfalar oluşturma izniniz yok {0} bu nedenle bu konuma bir sayfayı taşıyamazsınız.</value>
   </data>
-  <data name="SSLRequired" xml:space="preserve">
-    <value>Bu metaweblogapi'ye erişmek için https kullanmanız gerekir.</value>
+  <data name="MoveToRootNotAllowed" xml:space="preserve">
+    <value>Maalesef, kök düzeyinde sayfalar oluşturmanıza veya mevcut sayfaları kök düzeyine taşımanıza izin verilmiyor.</value>
+  </data>
+  <data name="NewChildPage" xml:space="preserve">
+    <value>Yeni Alt Sayfa</value>
+  </data>
+  <data name="NewRootPage" xml:space="preserve">
+    <value>Yeni Kök Düzeyi Sayfası</value>
+  </data>
+  <data name="PageManager" xml:space="preserve">
+    <value>Sayfa Yöneticisi</value>
+  </data>
+  <data name="PageManagerInstructions" xml:space="preserve">
+    <value>Site hiyerarşisi içinde hareket ettirmek veya sıralama konumlarını değiştirmek için aşağıdaki ağaç görünümünde sayfa düğümlerini sürükleyip bırakabilirsiniz. O sayfayla ilgili bir komut menüsü görüntülemek için bir sayfaya tıklayın.</value>
+  </data>
+  <data name="Protected" xml:space="preserve">
+    <value>Korumalı</value>
+  </data>
+  <data name="Public" xml:space="preserve">
+    <value>Genele Açık</value>
+  </data>
+  <data name="SortAlphaPrompt" xml:space="preserve">
+    <value>Seçili sayfanın alt sayfalarını alfabetik olarak sıralamak istediğinizden emin misiniz??</value>
+  </data>
+  <data name="SortChildPagesDeniedLogFromat" xml:space="preserve">
+    <value>İstek reddedildi: {0} kullanıcısı {1} {2} sayfası için alt sayfaları sıralamayı denedi ancak izne sahip olmadı.</value>
+  </data>
+  <data name="SortChildPagesSuccessLogFormat" xml:space="preserve">
+    <value>kullanıcı {0} sayfanın altındaki alt sayfaları {1} {2} alfabetik olarak sıraladı</value>
+  </data>
+  <data name="SortPagesAlpha" xml:space="preserve">
+    <value>Alt Sayfaları Alfabetik Olarak Sırala</value>
+  </data>
+  <data name="StandardPageManager" xml:space="preserve">
+    <value>Alternatif Sayfa Yöneticisi</value>
+  </data>
+  <data name="ViewPage" xml:space="preserve">
+    <value>Sayfaya bak</value>
   </data>
 </root>

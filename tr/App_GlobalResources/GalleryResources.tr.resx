@@ -130,7 +130,7 @@
     <value>Tam boyutunda görmek/indirmek için resmi tıklayın</value>
   </data>
   <data name="GalleryCompactModeSetting" xml:space="preserve">
-    <value>Kompakt Mod</value>
+    <value>Kompakt Mod (Galeri Efekti Yok)</value>
   </data>
   <data name="GalleryDeleteImageWarning" xml:space="preserve">
     <value>Bu resmi silmek istiyor musunuz?</value>
@@ -259,7 +259,7 @@
     <value>Galeriye Gözat</value>
   </data>
   <data name="CustomCssClassSetting" xml:space="preserve">
-    <value>Custom CSS Class</value>
+    <value>Özel CSS Sınıfı</value>
   </data>
   <data name="CustomCssClassSettingRegexWarning" xml:space="preserve">
     <value>Geçersiz Custom CSS Class</value>
@@ -268,16 +268,16 @@
     <value>Geçersiz dosya türü</value>
   </data>
   <data name="ResizeBackgroundColor" xml:space="preserve">
-    <value>Resize Background Color</value>
+    <value>Arka Plan Rengini Yeniden Boyutlandır</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>kapat</value>
   </data>
   <data name="ColorBoxOpacity" xml:space="preserve">
-    <value>Opasite</value>
+    <value>Opaklık</value>
   </data>
   <data name="ColorBoxSettings" xml:space="preserve">
-    <value>Color Box Ayarları</value>
+    <value>Renk Kutusu Ayarları</value>
   </data>
   <data name="ColorBoxSlideShowAuto" xml:space="preserve">
     <value>Resme tıklandığında slayt şovu başlat?</value>
@@ -295,7 +295,7 @@
     <value>Slayt Şov Kullan?</value>
   </data>
   <data name="ImageCountJsFormat" xml:space="preserve">
-    <value> {current} / {total}</value>
+    <value> resim {current} / {total}</value>
   </data>
   <data name="ImageSettings" xml:space="preserve">
     <value>Resim Ayarları</value>
@@ -319,7 +319,7 @@
     <value>slayt şov durdur</value>
   </data>
   <data name="ColorBoxOpacityRegexWarning" xml:space="preserve">
-    <value>Opasite 0 ile 1 arasında olmalıdır. Tanımlı olan .7 dir.</value>
+    <value>Opaklık, 0 ile 1 arasında bir değer olmalıdır. Varsayılan değer 0,7'dir.</value>
   </data>
   <data name="ColorBoxSlideshowSpeedRegexWarning" xml:space="preserve">
     <value>Slayt Şov hızı tamsayı olmalıdır. Tanımlı olan 2500 dir.</value>
@@ -331,6 +331,27 @@
     <value>Start Slide Show Automatically?</value>
   </data>
   <data name="UseNivoSlider" xml:space="preserve">
-    <value>Use Nivo Slider?</value>
+    <value>Nivo Slider kullanılsın mı?</value>
+  </data>
+  <data name="SelectFileButton" xml:space="preserve">
+    <value>Dosya Seç...</value>
+  </data>
+  <data name="SelectFilesButton" xml:space="preserve">
+    <value>Dosyaları Seç ...</value>
+  </data>
+  <data name="DropFile" xml:space="preserve">
+    <value>Bir resim dosyasını sürükleyip buraya bırakın veya bir dosya (.jpg, .jpeg, .png, .gif) seçmek için düğmeyi tıklayın</value>
+  </data>
+  <data name="DropFiles" xml:space="preserve">
+    <value>Görüntü dosyalarını buraya sürükleyip bırakın veya dosyaları seçmek için düğmeyi tıklayın (.jpg, .jpeg, .png, .gif)</value>
+  </data>
+  <data name="InvalidUploadExtensionFormat" xml:space="preserve">
+    <value>{0} dosyası, izin verilen bir dosya uzantısına sahip olmadığı için silindi. İzin verilen uzantılar {1}</value>
+  </data>
+  <data name="UploadComplete" xml:space="preserve">
+    <value>Yükleme tamamlandı</value>
+  </data>
+  <data name="Uploading" xml:space="preserve">
+    <value>Yükleniyor ...</value>
   </data>
 </root>

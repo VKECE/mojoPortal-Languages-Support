@@ -178,9 +178,12 @@
     <value>Site ayarlarına veya Web.config dosyasına girilmiş herhangi bir "Google Maps API key" bulunamadı.</value>
   </data>
   <data name="CustomCssClassSetting" xml:space="preserve">
-    <value>Custom CSS Class</value>
+    <value>Özel CSS Sınıfı</value>
   </data>
   <data name="CustomCssClassSettingRegexWarning" xml:space="preserve">
-    <value>Invalid Custom CSS Class</value>
+    <value>Hatalı Özel CSS Sınıfı</value>
+  </data>
+  <data name="GoogleMapUseIframeSetting" xml:space="preserve">
+    <value>İframe Yerleştirmeyi Kullan</value>
   </data>
 </root>

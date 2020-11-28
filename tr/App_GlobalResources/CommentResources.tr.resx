@@ -117,58 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccessDenied" xml:space="preserve">
-    <value>Erişim Yasak.</value>
+  <data name="AllowComments" xml:space="preserve">
+    <value>Yeni Yorumlara İzin Verilsin mi?</value>
   </data>
-  <data name="AuthenticationFailed" xml:space="preserve">
-    <value>Kullanıcı kimlik doğrulaması başarısız.</value>
+  <data name="AllowCommentTitle" xml:space="preserve">
+    <value>Yorum Başlıklarına İzin Verilsin mi?</value>
   </data>
-  <data name="ContentInstanceNotFound" xml:space="preserve">
-    <value>İçerik Örneği bulunamadı.</value>
+  <data name="AllowWebSiteUrlForComments" xml:space="preserve">
+    <value>Yorumlar İçin Web Sitesi URL'sine İzin Verilsin mi?</value>
   </data>
-  <data name="DeletingPagesDisabled" xml:space="preserve">
-    <value>Sayfaların xmlrpc ile silinmesine bu sitede izin verilmiyor.</value>
+  <data name="FeatureName" xml:space="preserve">
+    <value>Yorumlar</value>
   </data>
-  <data name="DescendentParentsNotAllowed" xml:space="preserve">
-    <value>Seçilen üst sayfa geçerli değil. Mevcut sayfanın alt sayfaları üst sayfa olamaz.</value>
+  <data name="RequireApprovalForComments" xml:space="preserve">
+    <value>Yorumlar İçin Onay Gerekiyor mu?</value>
   </data>
-  <data name="FileExtensionNotAllowed" xml:space="preserve">
-    <value>Dosya uzantısına izin verilmiyor.</value>
+  <data name="RequireAuthenticationForComments" xml:space="preserve">
+    <value>Yorumlar İçin Kimlik Doğrulama Gerekiyor mu?</value>
   </data>
-  <data name="MetaweblogApiDisabled" xml:space="preserve">
-    <value>MetaWeblogApi bu sitede devre dışı bırakıldı.</value>
+  <data name="SortCommentsDescending" xml:space="preserve">
+    <value>Yorumları Azalan Sırala?</value>
   </data>
-  <data name="NoBlogConfigured" xml:space="preserve">
-    <value>Yapılandırılmış blog yok.</value>
+  <data name="UseCommentSpamBlocker" xml:space="preserve">
+    <value>Spam Engelleyici Kullanılsın mı?</value>
   </data>
-  <data name="NotAllowedParentPage" xml:space="preserve">
-    <value>Üzgünüz, seçili ana sayfanın altında alt sayfalar oluşturmanıza izin verilmiyor.</value>
+  <data name="CommentSystemSetting" xml:space="preserve">
+    <value>Yorum Sistemi</value>
   </data>
-  <data name="NotAllowedToCreateRootPages" xml:space="preserve">
-    <value>Üzgünüz, kök seviyesinde sayfalar yaratmanıza izin verilmiyor.</value>
+  <data name="DateTimeFormat" xml:space="preserve">
+    <value>Tarih Saat Biçimi</value>
   </data>
-  <data name="PageCantBeItsOwnParent" xml:space="preserve">
-    <value>Bir sayfanın kendi üst öğesi olamaz.</value>
+  <data name="ContentNotifyOnComment" xml:space="preserve">
+    <value>Yorumda Bildirilsin mi?</value>
   </data>
-  <data name="PageEditingDisabled" xml:space="preserve">
-    <value>Bu sitede xmlrpc tarafından Sayfa Düzenlemeye izin verilmiyor.</value>
+  <data name="CustomCssClassSetting" xml:space="preserve">
+    <value>Custom CSS Class</value>
   </data>
-  <data name="PageNotFound" xml:space="preserve">
-    <value>Sayfa bulunamadı.</value>
+  <data name="NotifyEmailSetting" xml:space="preserve">
+    <value>Bildirim E-posta Adresi</value>
   </data>
-  <data name="PagesOnly" xml:space="preserve">
-    <value>Yalnızca Sayfalar</value>
-  </data>
-  <data name="ParentPageNotFound" xml:space="preserve">
-    <value>Seçili üst sayfa bulunamadı.</value>
-  </data>
-  <data name="PostNotFound" xml:space="preserve">
-    <value>Gönderi bulunamadı.</value>
-  </data>
-  <data name="SiteValidationFailed" xml:space="preserve">
-    <value>Site doğrulaması başarısız oldu.</value>
-  </data>
-  <data name="SSLRequired" xml:space="preserve">
-    <value>Bu metaweblogapi'ye erişmek için https kullanmanız gerekir.</value>
+  <data name="DisableAvatars" xml:space="preserve">
+    <value>Avatarlar devre dışı bırakılsın mı?</value>
   </data>
 </root>

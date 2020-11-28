@@ -268,7 +268,7 @@
     <value> pasif olarak kayıt edildi.</value>
   </data>
   <data name="PollEditToLabel" xml:space="preserve">
-    <value>to</value>
+    <value>- &gt;</value>
   </data>
   <data name="PollEditViewPollsLabel" xml:space="preserve">
     <value>Oylamaları Göster/Düzenle</value>
@@ -280,7 +280,7 @@
     <value>Oylama</value>
   </data>
   <data name="PollFromText" xml:space="preserve">
-    <value>from</value>
+    <value>&lt; - </value>
   </data>
   <data name="PollHistoryBackLabel" xml:space="preserve">
     <value>Geri</value>
@@ -310,7 +310,7 @@
     <value>Aktif bir oylama bulunmuyor.</value>
   </data>
   <data name="PollPollRunsText" xml:space="preserve">
-    <value>Poll runs</value>
+    <value>Anket çalışması</value>
   </data>
   <data name="PollShowMyPollHistoryButtonSetting" xml:space="preserve">
     <value>"Oylama Geçmişim" butonunu göster?</value>
@@ -364,7 +364,7 @@
     <value>Oylamayı {0} ile {1} arasında çalıştır.</value>
   </data>
   <data name="PollRunsFormatString" xml:space="preserve">
-    <value>Poll runs {0}</value>
+    <value>Anket çalışması {0}</value>
   </data>
   <data name="AlreadyVotedMessage" xml:space="preserve">
     <value>Oyunuz sayılmıştır.</value>
@@ -373,9 +373,9 @@
     <value>Sonuçlar için çubuk bar rengi:</value>
   </data>
   <data name="CustomCssClassSetting" xml:space="preserve">
-    <value>Custom CSS Class</value>
+    <value>Özel CSS Class</value>
   </data>
   <data name="CustomCssClassSettingRegexWarning" xml:space="preserve">
-    <value>Invalid Custom CSS Class</value>
+    <value>Hatalı Özel CSS Class</value>
   </data>
 </root>

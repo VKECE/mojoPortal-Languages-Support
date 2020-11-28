@@ -117,58 +117,157 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccessDenied" xml:space="preserve">
-    <value>Erişim Yasak.</value>
+  <data name="AddItem" xml:space="preserve">
+    <value>Ekle</value>
   </data>
-  <data name="AuthenticationFailed" xml:space="preserve">
-    <value>Kullanıcı kimlik doğrulaması başarısız.</value>
+  <data name="CancelButton" xml:space="preserve">
+    <value>İptal</value>
   </data>
-  <data name="ContentInstanceNotFound" xml:space="preserve">
-    <value>İçerik Örneği bulunamadı.</value>
+  <data name="DeleteButton" xml:space="preserve">
+    <value>Bu öğeyi sil</value>
   </data>
-  <data name="DeletingPagesDisabled" xml:space="preserve">
-    <value>Sayfaların xmlrpc ile silinmesine bu sitede izin verilmiyor.</value>
+  <data name="EditItemTitle" xml:space="preserve">
+    <value>Ürün Detayları</value>
   </data>
-  <data name="DescendentParentsNotAllowed" xml:space="preserve">
-    <value>Seçilen üst sayfa geçerli değil. Mevcut sayfanın alt sayfaları üst sayfa olamaz.</value>
+  <data name="UpdateButton" xml:space="preserve">
+    <value>Kaydet</value>
   </data>
-  <data name="FileExtensionNotAllowed" xml:space="preserve">
-    <value>Dosya uzantısına izin verilmiyor.</value>
+  <data name="ViewOrderLabel" xml:space="preserve">
+    <value>Sırala Rank</value>
   </data>
-  <data name="MetaweblogApiDisabled" xml:space="preserve">
-    <value>MetaWeblogApi bu sitede devre dışı bırakıldı.</value>
+  <data name="DeleteLink" xml:space="preserve">
+    <value>Sil</value>
   </data>
-  <data name="NoBlogConfigured" xml:space="preserve">
-    <value>Yapılandırılmış blog yok.</value>
+  <data name="ItemDeleteWarning" xml:space="preserve">
+    <value>Bu öğeyi silmek istediğinizden emin misiniz?</value>
   </data>
-  <data name="NotAllowedParentPage" xml:space="preserve">
-    <value>Üzgünüz, seçili ana sayfanın altında alt sayfalar oluşturmanıza izin verilmiyor.</value>
+  <data name="EditLink" xml:space="preserve">
+    <value>Düzenle</value>
   </data>
-  <data name="NotAllowedToCreateRootPages" xml:space="preserve">
-    <value>Üzgünüz, kök seviyesinde sayfalar yaratmanıza izin verilmiyor.</value>
+  <data name="ViewOrderRequiredHelp" xml:space="preserve">
+    <value>Geçerli Bir Görüntüleme Sırası Girmelisiniz</value>
   </data>
-  <data name="PageCantBeItsOwnParent" xml:space="preserve">
-    <value>Bir sayfanın kendi üst öğesi olamaz.</value>
+  <data name="SearchName" xml:space="preserve">
+    <value>Diğer İçerik</value>
   </data>
-  <data name="PageEditingDisabled" xml:space="preserve">
-    <value>Bu sitede xmlrpc tarafından Sayfa Düzenlemeye izin verilmiyor.</value>
+  <data name="FeatureName" xml:space="preserve">
+    <value>Super Flexi</value>
   </data>
-  <data name="PageNotFound" xml:space="preserve">
-    <value>Sayfa bulunamadı.</value>
+  <data name="ExtraCssClassSetting" xml:space="preserve">
+    <value>Özel CSS Class</value>
   </data>
-  <data name="PagesOnly" xml:space="preserve">
-    <value>Yalnızca Sayfalar</value>
+  <data name="EditHeader" xml:space="preserve">
+    <value>Başlığı Düzenle</value>
   </data>
-  <data name="ParentPageNotFound" xml:space="preserve">
-    <value>Seçili üst sayfa bulunamadı.</value>
+  <data name="Browse" xml:space="preserve">
+    <value>Dosya Seç</value>
   </data>
-  <data name="PostNotFound" xml:space="preserve">
-    <value>Gönderi bulunamadı.</value>
+  <data name="MarkupDefinitionFile" xml:space="preserve">
+    <value>Çözüm</value>
   </data>
-  <data name="SiteValidationFailed" xml:space="preserve">
-    <value>Site doğrulaması başarısız oldu.</value>
+  <data name="SettingsLinkLabel" xml:space="preserve">
+    <value>Ayarlar</value>
   </data>
-  <data name="SSLRequired" xml:space="preserve">
-    <value>Bu metaweblogapi'ye erişmek için https kullanmanız gerekir.</value>
+  <data name="BrowseFeaturedImage" xml:space="preserve">
+    <value>Fotoğraf seç</value>
+  </data>
+  <data name="BrowseFeaturedImageToolTip" xml:space="preserve">
+    <value>Bir resmi bulun veya yükleyin</value>
+  </data>
+  <data name="InstanceFeaturedImage" xml:space="preserve">
+    <value>Özellikli resim</value>
+  </data>
+  <data name="UseFeaturedImage" xml:space="preserve">
+    <value>Öğe Düzeyinde Öne Çıkan Resme İzin Ver</value>
+  </data>
+  <data name="EditFooter" xml:space="preserve">
+    <value>Altbilgiyi Düzenle</value>
+  </data>
+  <data name="RequiredMessageFormat" xml:space="preserve">
+    <value>{0} gerekli.</value>
+  </data>
+  <data name="RegexMessageFormat" xml:space="preserve">
+    <value>{0} doğru biçimde değil.</value>
+  </data>
+  <data name="RemoveImage" xml:space="preserve">
+    <value>Resmi Kaldır</value>
+  </data>
+  <data name="DescendingSortOrder" xml:space="preserve">
+    <value>Azalan Sırayla Sırala</value>
+  </data>
+  <data name="ExtraCssClassSettingRegexWarning" xml:space="preserve">
+    <value>Geçersiz Özel CSS Sınıfı</value>
+  </data>
+  <data name="CancelButtonAccessKey" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="DeleteButtonAccessKey" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="UpdateButtonAccessKey" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="RemoveImageToolTip" xml:space="preserve">
+    <value>Mevcut resmi kaldır</value>
+  </data>
+  <data name="CustomizableSettings" xml:space="preserve">
+    <value>Gelişmiş Ayarlar Dizesi</value>
+  </data>
+  <data name="IsGlobalView" xml:space="preserve">
+    <value>Bu çözümü kullanan tüm öğeleri gösterin.</value>
+  </data>
+  <data name="ModuleFriendlyName" xml:space="preserve">
+    <value>Modül Kolay Adı </value>
+  </data>
+  <data name="GlobalViewSortOrder" xml:space="preserve">
+    <value>Global Görünüm Sıralama Düzeni</value>
+  </data>
+  <data name="IncludeInSearch" xml:space="preserve">
+    <value>Arama Dizinine dahil edilsin mi?</value>
+  </data>
+  <data name="FeatureNameResourceLibrary" xml:space="preserve">
+    <value>Kaynak Kitaplığı</value>
+  </data>
+  <data name="SearchNameResourceLibrary" xml:space="preserve">
+    <value>Kaynak Kitaplığı</value>
+  </data>
+  <data name="ItemCreateRoles" xml:space="preserve">
+    <value>Öğe eklemesine izin verilen roller</value>
+  </data>
+  <data name="ItemDeleteRoles" xml:space="preserve">
+    <value>Öğeleri silmeye izin verilen roller</value>
+  </data>
+  <data name="ItemEditRoles" xml:space="preserve">
+    <value>Öğeleri düzenlemeye izin verilen roller</value>
+  </data>
+  <data name="AdvancedSettings" xml:space="preserve">
+    <value>İleri Ayarlar</value>
+  </data>
+  <data name="DefinitionSettings" xml:space="preserve">
+    <value>Tanım</value>
+  </data>
+  <data name="PermissionSettings" xml:space="preserve">
+    <value>İzinler</value>
+  </data>
+  <data name="ImportTitle" xml:space="preserve">
+    <value>Kayıtları İçe Aktar</value>
+  </data>
+  <data name="ExportTitle" xml:space="preserve">
+    <value>Kayıtları Dışa Aktar</value>
+  </data>
+  <data name="ImportInstructions" xml:space="preserve">
+    <value>Bir CSV dosyasından içe aktarabilirsiniz. Dosyanın ilk satırı, her bir sütunun adını içermelidir. Sütunların sırası önemli değildir.</value>
+  </data>
+  <data name="ExportInstructions" xml:space="preserve">
+    <value>Bu araç, tüm kayıtlarınızı bir CSV dosyasına aktaracaktır. CSV dosyası, verileri başka bir modül örneğine veya tamamen başka bir sisteme taşımak için kullanılabilir.</value>
+  </data>
+  <data name="ImportUpdateExistingRecordsLabel" xml:space="preserve">
+    <value>Mevcut Kayıtlar Güncellensin mi?</value>
+  </data>
+  <data name="SolutionDropDownPleaseSelect" xml:space="preserve">
+    <value>Lütfen seçin</value>
+  </data>
+  <data name="ImportDeleteExistingRecordsLabel" xml:space="preserve">
+    <value>Mevcut Kayıtlar Silinsin mi?</value>
   </data>
 </root>

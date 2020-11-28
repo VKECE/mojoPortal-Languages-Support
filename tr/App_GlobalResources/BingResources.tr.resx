@@ -118,54 +118,54 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BingMapFeatureName" xml:space="preserve">
-    <value>Bing Map</value>
+    <value>Bing Harita</value>
   </data>
   <data name="CustomCssClassSetting" xml:space="preserve">
     <value>Custom CSS Class</value>
   </data>
   <data name="Distance" xml:space="preserve">
-    <value>Distance</value>
+    <value>Mesafe</value>
   </data>
   <data name="DrivingDirectionsDistanceUnit" xml:space="preserve">
-    <value>Driving Directions Distance Unit</value>
+    <value>Yol Tarifi Mesafe Birimi</value>
   </data>
   <data name="EnableDrivingDirections" xml:space="preserve">
-    <value>Enable Driving Directions?</value>
+    <value>Arabayla Yol Tarifleri etkinleştirilsin mi?</value>
   </data>
   <data name="GetDirectionsButton" xml:space="preserve">
-    <value>Get Directions From</value>
+    <value>Şuradan Yol Tarifi Al</value>
   </data>
   <data name="InitialMapStyleSetting" xml:space="preserve">
-    <value>Initial Map Style</value>
+    <value>İlk Harita Stili</value>
   </data>
   <data name="InitialZoomSetting" xml:space="preserve">
-    <value>Initial Zoom</value>
+    <value>İlk Yakınlaştırma</value>
   </data>
   <data name="Kilometers" xml:space="preserve">
-    <value>Kilometers</value>
+    <value>Kilometre</value>
   </data>
   <data name="LocationSetting" xml:space="preserve">
     <value>Konum</value>
   </data>
   <data name="MapHeightSetting" xml:space="preserve">
-    <value>Map Height</value>
+    <value>Harita Yüksekliği</value>
   </data>
   <data name="MapWidthSetting" xml:space="preserve">
-    <value>MapWidth</value>
+    <value>Harita Genişliği</value>
   </data>
   <data name="Miles" xml:space="preserve">
-    <value>Miles</value>
+    <value>Mil</value>
   </data>
   <data name="Reset" xml:space="preserve">
-    <value>reset</value>
+    <value>Sıfırla</value>
   </data>
   <data name="ShowMapControls" xml:space="preserve">
-    <value>Show Map Controls?</value>
+    <value>Harita Kontrolleri Gösterilsin mi?</value>
   </data>
   <data name="ShowLocationPin" xml:space="preserve">
-    <value>Show Location Pin?</value>
+    <value>Konum PIN'i Gösterilsin mi?</value>
   </data>
   <data name="Caption" xml:space="preserve">
-    <value>Caption</value>
+    <value>Başlık</value>
   </data>
 </root>

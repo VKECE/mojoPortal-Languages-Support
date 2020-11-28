@@ -124,7 +124,7 @@
     <value>Ülke</value>
   </data>
   <data name="DateOfBirthLabel" xml:space="preserve">
-    <value>Date of Birth</value>
+    <value>Doğum tarihi</value>
   </data>
   <data name="GenderFemaleLabel" xml:space="preserve">
     <value>Kadın</value>
@@ -136,7 +136,7 @@
     <value>Erkek</value>
   </data>
   <data name="GenderUnselectedLabel" xml:space="preserve">
-    <value />
+    <value>Belirtilmek İstemiyorum</value>
   </data>
   <data name="ICQLabel" xml:space="preserve">
     <value>ICQ</value>
@@ -154,7 +154,7 @@
     <value>{0} gereklidir</value>
   </data>
   <data name="RequiredLabel" xml:space="preserve">
-    <value>Required</value>
+    <value>Zorunlu</value>
   </data>
   <data name="SignatureLabel" xml:space="preserve">
     <value>İmza</value>
@@ -186,8 +186,8 @@
   <data name="TimeZoneLabelAzoresCapeVerdeIslands" xml:space="preserve">
     <value>(GMT - 1.00) Azores, Cape Verde Islands</value>
   </data>
-  <data name="TimeZoneLabelBaghdadKuwaitRiyadhMoscowStPetersburgVolgogradNairobi" xml:space="preserve">
-    <value>(GMT + 3.00) Baghdad, Kuwait, Riyadh, Moscow, St. Petersburg, Volgograd, Nairobi</value>
+  <data name="TimeZoneLabelIstanbulBaghdadKuwaitRiyadhMoscowStPetersburgVolgogradNairobi" xml:space="preserve">
+    <value>(GMT + 3.00) Istanbul, Baghdad, Kuwait, Riyadh, Moscow, St. Petersburg, Volgograd, Nairobi</value>
   </data>
   <data name="TimeZoneLabelBangkokHanoiJakarta" xml:space="preserve">
     <value>(GMT + 7.00) Bangkok, Hanoi, Jakarta</value>
@@ -262,18 +262,30 @@
     <value>Web Sitesi</value>
   </data>
   <data name="WebSiteUrlRegexWarning" xml:space="preserve">
-    <value>must be an url starting with http:// or https://</value>
+    <value>URL http:// veya https:// ile başlamalı</value>
   </data>
   <data name="WouldSeeMoreIfAuthenticatedMessage" xml:space="preserve">
-    <value>Some information is not shown because you are not signed into this site.</value>
+    <value>Bu sitede oturum açmadığınız için bazı bilgiler gösterilmiyor.</value>
   </data>
   <data name="YahooLabel" xml:space="preserve">
     <value>Yahoo</value>
   </data>
   <data name="FirstName" xml:space="preserve">
-    <value>First Name</value>
+    <value>İsim</value>
   </data>
   <data name="LastName" xml:space="preserve">
-    <value>Last Name</value>
+    <value>Soyadı</value>
+  </data>
+  <data name="TimeZoneLabelBaghdadKuwaitRiyadhMoscowStPetersburgVolgogradNairobi" xml:space="preserve">
+    <value>(GMT + 3.00) Baghdad, Kuwait, Riyadh, Moscow, St. Petersburg, Volgograd, Nairobi</value>
+  </data>
+  <data name="AuthorBio" xml:space="preserve">
+    <value>Kısa Yazar Biyografisi</value>
+  </data>
+  <data name="DateOfBirth" xml:space="preserve">
+    <value>Doğum tarihi</value>
+  </data>
+  <data name="PhoneNumber" xml:space="preserve">
+    <value>Telefon numarası</value>
   </data>
 </root>

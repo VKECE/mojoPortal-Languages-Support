@@ -148,33 +148,36 @@
     <value>Xml/Xsl</value>
   </data>
   <data name="AllowExternalImages" xml:space="preserve">
-    <value>Allow External Images?</value>
+    <value>Harici Görüntülere İzin Verilsin mi?</value>
   </data>
   <data name="CustomCssClassSetting" xml:space="preserve">
-    <value>Custom CSS Class</value>
+    <value>Özel CSS Sınıfı</value>
   </data>
   <data name="CustomCssClassSettingRegexWarning" xml:space="preserve">
-    <value>Invalid Custom CSS Class</value>
+    <value>Geçersiz Özel CSS Sınıfı</value>
   </data>
   <data name="GenericError" xml:space="preserve">
-    <value>An error occurred trying to process the Xml with Xsl. Check the error log for details or contact a site administrator.</value>
+    <value>Xml'yi Xsl ile işlemeye çalışırken bir hata oluştu. Ayrıntılar için hata günlüğünü kontrol edin veya bir site yöneticisine başvurun.</value>
   </data>
   <data name="TrustContent" xml:space="preserve">
-    <value>Trust Content Completely?</value>
+    <value>İçeriğe Tamamen Güvenilsin mi?</value>
   </data>
   <data name="Upload" xml:space="preserve">
-    <value>Upload</value>
+    <value>Yükleme</value>
   </data>
   <data name="UploadExtensionWarning" xml:space="preserve">
-    <value>Only .xml and .xsl files are allowed.</value>
+    <value>Yalnızca .xml ve .xsl dosyalarına izin verilir.</value>
   </data>
   <data name="UploadXmlXsl" xml:space="preserve">
-    <value>Upload Xml or Xsl</value>
+    <value>Xml veya Xsl yükleyin</value>
   </data>
   <data name="XmlUrl" xml:space="preserve">
     <value>Xml Url</value>
   </data>
   <data name="XslUrl" xml:space="preserve">
     <value>Xsl Url</value>
+  </data>
+  <data name="DropFile" xml:space="preserve">
+    <value>Bir xml veya xsl dosyasını buraya sürükleyip bırakın veya bir dosya seçmek için düğmeyi tıklayın</value>
   </data>
 </root>

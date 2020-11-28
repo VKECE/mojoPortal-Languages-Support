@@ -139,7 +139,7 @@
     <value>Yeni klasör</value>
   </data>
   <data name="FileManagerObjectsLabel" xml:space="preserve">
-    <value>nesne</value>
+    <value>Nesne</value>
   </data>
   <data name="FileManagerRename" xml:space="preserve">
     <value>Ad Değiştir</value>
@@ -178,7 +178,7 @@
     <value>Üst klasör:</value>
   </data>
   <data name="SharedFilesHistoryLabel" xml:space="preserve">
-    <value>Dosya tarihçesi</value>
+    <value>Dosya Tarihçesi</value>
   </data>
   <data name="SharedFilesNotFoundMessage" xml:space="preserve">
     <value>Dosya bulunamadı</value>
@@ -199,46 +199,46 @@
     <value>Dosya gönderme/yükleme</value>
   </data>
   <data name="AddFileButton" xml:space="preserve">
-    <value>Add File...</value>
+    <value>Dosya Ekle...</value>
   </data>
   <data name="CustomCssClassSetting" xml:space="preserve">
-    <value>Custom CSS Class</value>
+    <value>Özel CSS Sınıfı</value>
   </data>
   <data name="CustomCssClassSettingRegexWarning" xml:space="preserve">
-    <value>Invalid Custom CSS Class</value>
+    <value>Hatalı Özel CSS Sınıfı</value>
   </data>
   <data name="DefaultSortSetting" xml:space="preserve">
-    <value>Default Sort</value>
+    <value>Varsayılan Sıralama</value>
   </data>
   <data name="DownloadCountLabel" xml:space="preserve">
-    <value>Downloaded</value>
+    <value>İndirme Sayısı</value>
   </data>
   <data name="EditPageTitle" xml:space="preserve">
-    <value>Edit File</value>
+    <value>Dosya Düzenle</value>
   </data>
   <data name="FileDescription" xml:space="preserve">
-    <value>Description</value>
+    <value>Açıklama</value>
   </data>
   <data name="RootDirectoryReached" xml:space="preserve">
-    <value>Root directory reached</value>
+    <value>Kök dizine ulaşıldı</value>
   </data>
   <data name="SharedFilesDownloadLink" xml:space="preserve">
-    <value>Download</value>
+    <value>İndir</value>
   </data>
   <data name="SharedFilesEditLink" xml:space="preserve">
-    <value>Edit</value>
+    <value>Düzenle</value>
   </data>
   <data name="SharedFilesEditUploadDateLabel" xml:space="preserve">
-    <value>Upload Date</value>
+    <value>Yüklenme Tarihi</value>
   </data>
   <data name="SharedFilesEnableVersioningSetting" xml:space="preserve">
-    <value>Keep File History?:</value>
+    <value>Dosya Geçmişi Saklansın mı ?:</value>
   </data>
   <data name="SharedFilesFeatureName" xml:space="preserve">
     <value>Dosya Paylaşımı</value>
   </data>
   <data name="SharedFilesFolderLabel" xml:space="preserve">
-    <value>Folder</value>
+    <value>Klasör</value>
   </data>
   <data name="SharedFilesSearchName" xml:space="preserve">
     <value>Dosya Paylaşımı</value>
@@ -247,21 +247,60 @@
     <value>Yükleyen</value>
   </data>
   <data name="ShowDescription" xml:space="preserve">
-    <value>Show Description?</value>
+    <value>Açıklamayı Göster?</value>
   </data>
   <data name="ShowDownloadCountToAllUsers" xml:space="preserve">
-    <value>Show Download Count To All Users?</value>
+    <value>Tüm kullanıcıların indirme sayılarını göster?</value>
   </data>
   <data name="ShowModified" xml:space="preserve">
-    <value>Show Modified Date?</value>
+    <value>Değiştirme Tarihini Göster?</value>
   </data>
   <data name="ShowObjectCount" xml:space="preserve">
-    <value>Show Count of Files and Folders?</value>
+    <value>Dosya ve Klasör Sayısı Gösterilsin mi?</value>
   </data>
   <data name="ShowSize" xml:space="preserve">
-    <value>Show Size?</value>
+    <value>Boyutu Göster?</value>
   </data>
   <data name="ShowUploadedBy" xml:space="preserve">
     <value>Yükleyeni Göster?</value>
+  </data>
+  <data name="RolesAllUsersRole" xml:space="preserve">
+    <value>Tüm Kullanıcılar</value>
+  </data>
+  <data name="DropFile" xml:space="preserve">
+    <value>Bir dosyayı buraya sürükleyip bırakın veya bir dosya seçmek için düğmeyi tıklayın</value>
+  </data>
+  <data name="DropFiles" xml:space="preserve">
+    <value>Dosyaları buraya sürükleyip bırakın veya dosyaları seçmek için düğmeyi tıklayın (Maks 10 dosya)</value>
+  </data>
+  <data name="FileLabel" xml:space="preserve">
+    <value>Dosya</value>
+  </data>
+  <data name="ImageFileLabel" xml:space="preserve">
+    <value>Resim</value>
+  </data>
+  <data name="RefreshButtonText" xml:space="preserve">
+    <value>Yenile</value>
+  </data>
+  <data name="RolesThatCanViewThisItem" xml:space="preserve">
+    <value>Bu Öğeyi Görüntüleyebilecek Roller</value>
+  </data>
+  <data name="Root" xml:space="preserve">
+    <value>Kök</value>
+  </data>
+  <data name="SelectFileButton" xml:space="preserve">
+    <value>Dosya Seçiniz...</value>
+  </data>
+  <data name="SelectFilesButton" xml:space="preserve">
+    <value>Dosyaları Seçiniz...</value>
+  </data>
+  <data name="SetChildrensRolesToParentFolder" xml:space="preserve">
+    <value>Alt öğeler bu rollere ayarlansın mı?</value>
+  </data>
+  <data name="UploadComplete" xml:space="preserve">
+    <value>Yükleme Tamamlandı</value>
+  </data>
+  <data name="Uploading" xml:space="preserve">
+    <value>Yükleniyor...</value>
   </data>
 </root>

@@ -121,12 +121,12 @@
     <value>Google Çeviri Hizmeti</value>
   </data>
   <data name="ShowToolbar" xml:space="preserve">
-    <value>Show Toolbar?</value>
+    <value>Araç Çubuğu gösterilsin mi?</value>
   </data>
   <data name="TrackInGoogleAnalytics" xml:space="preserve">
-    <value>Track In Google Analytics?</value>
+    <value>Google Analytics'te Takip Edilsin mi?</value>
   </data>
   <data name="UseSimpleLayout" xml:space="preserve">
-    <value>Use Simple Layout?</value>
+    <value>Basit Düzen Kullanılsın mı?</value>
   </data>
 </root>

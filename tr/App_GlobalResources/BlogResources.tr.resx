@@ -1,0 +1,1026 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BlogAddThisCustomBrandSetting" xml:space="preserve">
+    <value>AddThis.com Özel İbare</value>
+  </data>
+  <data name="BlogAddThisCustomLogoBackColorSetting" xml:space="preserve">
+    <value>AddThis.com Özel Arkaplan Rengi</value>
+  </data>
+  <data name="BlogAddThisCustomLogoForeColorSetting" xml:space="preserve">
+    <value>AddThis.com Özel Yazı Rengi</value>
+  </data>
+  <data name="BlogAddThisCustomLogoUrlSetting" xml:space="preserve">
+    <value>AddThis.com Özel Logo Resmi Yolu</value>
+  </data>
+  <data name="BlogAddThisCustomOptionsSetting" xml:space="preserve">
+    <value>AddThis.com Özel Seçenekler</value>
+  </data>
+  <data name="BlogAddThisDotComUseMouseOverWidgetSetting" xml:space="preserve">
+    <value>AddThis.com Mouseover Etkisini Kullan</value>
+  </data>
+  <data name="BlogAddThisDotComUsernameSetting" xml:space="preserve">
+    <value>AddThis.com Kullanıcı Adı</value>
+  </data>
+  <data name="BlogAddThisRssButtonImageUrlSetting" xml:space="preserve">
+    <value>AddThis.com RSS Simgesi Yolu</value>
+  </data>
+  <data name="BlogAddThisSubscribeAltText" xml:space="preserve">
+    <value>Onay</value>
+  </data>
+  <data name="BlogAllowComments" xml:space="preserve">
+    <value>Yorum eklensin?</value>
+  </data>
+  <data name="BlogArchivesLabel" xml:space="preserve">
+    <value>Arşiv</value>
+  </data>
+  <data name="BlogArchivesPrefixLabel" xml:space="preserve">
+    <value>Arşiv:</value>
+  </data>
+  <data name="BlogAuthorEmailSetting" xml:space="preserve">
+    <value>Yazarın E-Maili</value>
+  </data>
+  <data name="BlogAuthorEmailSettingRegexWarning" xml:space="preserve">
+    <value>Geçerli bir E-Mail girmelisiniz.</value>
+  </data>
+  <data name="BlogAuthorSetting" xml:space="preserve">
+    <value>Yazar</value>
+  </data>
+  <data name="BlogBeginDateRequiredHelp" xml:space="preserve">
+    <value>Geçerli bir başlangıç tarihi girmelisiniz.</value>
+  </data>
+  <data name="BlogCategoriesLabel" xml:space="preserve">
+    <value>Kategoriler</value>
+  </data>
+  <data name="BlogCategoriesPrefixLabel" xml:space="preserve">
+    <value>Kategori: </value>
+  </data>
+  <data name="BlogCommentCommentLabel" xml:space="preserve">
+    <value>Yorumlar</value>
+  </data>
+  <data name="BlogCommentCountLabel" xml:space="preserve">
+    <value>Yorumlar</value>
+  </data>
+  <data name="BlogCommentPostCommentButton" xml:space="preserve">
+    <value>Gönder</value>
+  </data>
+  <data name="BlogCommentRemeberMeLabel" xml:space="preserve">
+    <value>Beni hatırla</value>
+  </data>
+  <data name="BlogCommentsClosedMessage" xml:space="preserve">
+    <value>Bu yazı için yorum girişi kapalıdır.</value>
+  </data>
+  <data name="BlogCommentsNotAllowed" xml:space="preserve">
+    <value>İzin verilmedi</value>
+  </data>
+  <data name="BlogCommentSolveQuestionMessage" xml:space="preserve">
+    <value>SPAM yazılımı değil de gerçek bir kişi olduğunuzu ispatlamalısınız.</value>
+  </data>
+  <data name="BlogCommentsUnlimited" xml:space="preserve">
+    <value>Sınırsız</value>
+  </data>
+  <data name="BlogCommentTitleLabel" xml:space="preserve">
+    <value>Başlık</value>
+  </data>
+  <data name="BlogCommentUrlLabel" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="BlogCommentUserNameLabel" xml:space="preserve">
+    <value>İsim</value>
+  </data>
+  <data name="BlogCopyrightSetting" xml:space="preserve">
+    <value>Telif hakkı</value>
+  </data>
+  <data name="BlogDeleteCategoryWarning" xml:space="preserve">
+    <value>Bu kategoriyi silmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="BlogDeleteCommentWarning" xml:space="preserve">
+    <value>Bu kategoriyi silmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="BlogDeletePostWarning" xml:space="preserve">
+    <value>Bu makaleyi silmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="BlogDescriptionSetting" xml:space="preserve">
+    <value>Blog tanımlama cümlesi</value>
+  </data>
+  <data name="BlogDisableFeedSetting" xml:space="preserve">
+    <value>Dışarıya beslemeyi iptal et</value>
+  </data>
+  <data name="BlogDraftInstructions" xml:space="preserve">
+    <value>Yayınlanması için ileriki bir tarihi seçin ya da "Yayınlansın" onayını kaldırıp taslak olarak kaydedin.</value>
+  </data>
+  <data name="BlogDraftsHeading" xml:space="preserve">
+    <value>Yayınlanmayan Makaleler</value>
+  </data>
+  <data name="BlogDraftsLink" xml:space="preserve">
+    <value>Taslakları düzenle</value>
+  </data>
+  <data name="BlogEditAllowedCommentsForDaysPrefix" xml:space="preserve">
+    <value>Yorumlara izin ver</value>
+  </data>
+  <data name="BlogEditCancelButton" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="BlogEditCategoriesLabel" xml:space="preserve">
+    <value>Kategorileri Düzenle</value>
+  </data>
+  <data name="BlogEditCategoryLabel" xml:space="preserve">
+    <value>Kategoriler</value>
+  </data>
+  <data name="BlogEditCommentsDaysLabel" xml:space="preserve">
+    <value>gün</value>
+  </data>
+  <data name="BlogEditDeleteButton" xml:space="preserve">
+    <value>Bunu Sil</value>
+  </data>
+  <data name="BlogEditDescriptionLabel" xml:space="preserve">
+    <value>Tanımlama</value>
+  </data>
+  <data name="BlogEditEntryLabel" xml:space="preserve">
+    <value>Blog Girişi</value>
+  </data>
+  <data name="BlogEditEntryLink" xml:space="preserve">
+    <value>Düzenle</value>
+  </data>
+  <data name="BlogEditIncludeInFeedLabel" xml:space="preserve">
+    <value>RSS için kullan</value>
+  </data>
+  <data name="BlogEditItemUrlLabel" xml:space="preserve">
+    <value>Url</value>
+  </data>
+  <data name="BlogEditLocationLabel" xml:space="preserve">
+    <value>Google Map için gösterilecek konumu girin</value>
+  </data>
+  <data name="BlogEditorHeightSetting" xml:space="preserve">
+    <value>Editor alanı yüksekliği</value>
+  </data>
+  <data name="BlogEditSelectedCategoriesLabel" xml:space="preserve">
+    <value>Seçilmiş Kategori</value>
+  </data>
+  <data name="BlogEditStartDateLabel" xml:space="preserve">
+    <value>Başlangıç Tarihi</value>
+  </data>
+  <data name="BlogEditTitleLabel" xml:space="preserve">
+    <value>Başlık</value>
+  </data>
+  <data name="BlogEditUpdateButton" xml:space="preserve">
+    <value>Kaydet</value>
+  </data>
+  <data name="BlogEntriesToShowSetting" xml:space="preserve">
+    <value>Bir sayfada gösterilecek makale sayısı</value>
+  </data>
+  <data name="BlogEntriesToShowSettingRegexWarning" xml:space="preserve">
+    <value>Gösterilecekler için bir tamsayı girmelisiniz. Varsayılan değer 10'dur</value>
+  </data>
+  <data name="BlogEntryCountLabel" xml:space="preserve">
+    <value>Yazılar</value>
+  </data>
+  <data name="BlogExcerptLengthSetting" xml:space="preserve">
+    <value>Özetin uzunluğu</value>
+  </data>
+  <data name="BlogExcerptSuffixSetting" xml:space="preserve">
+    <value>Özet için son ek</value>
+  </data>
+  <data name="BlogFeatureName" xml:space="preserve">
+    <value>Blog</value>
+  </data>
+  <data name="BlogFeedbackLabel" xml:space="preserve">
+    <value>Yorumlar</value>
+  </data>
+  <data name="BlogFeedburnerFeedUrl" xml:space="preserve">
+    <value>Feedburner Feed Url</value>
+  </data>
+  <data name="BlogHideAddThisButtonSetting" xml:space="preserve">
+    <value>AddThis tuşunu gizle</value>
+  </data>
+  <data name="BlogModuleAddToGoogleLink" xml:space="preserve">
+    <value>Google'a ekle</value>
+  </data>
+  <data name="BlogModuleAddToMyMSNLink" xml:space="preserve">
+    <value>My MSN'e ekle</value>
+  </data>
+  <data name="BlogModuleAddToMyYahooLink" xml:space="preserve">
+    <value>Yahoo'ya ekle</value>
+  </data>
+  <data name="BlogModuleAddToWindowsLiveLink" xml:space="preserve">
+    <value>Windows Live'a ekle</value>
+  </data>
+  <data name="BlogMoreLinkText" xml:space="preserve">
+    <value>Devamını okumak için gösterilecek bağlantı yazısı</value>
+  </data>
+  <data name="BlogNavigationOnRightSetting" xml:space="preserve">
+    <value>Sağ bölme kullanılsın mı?</value>
+  </data>
+  <data name="BlogNextPostLink" xml:space="preserve">
+    <value>&gt;&gt; Sonraki</value>
+  </data>
+  <data name="BlogPreviousPostLink" xml:space="preserve">
+    <value>Önceki &lt;&lt;</value>
+  </data>
+  <data name="BlogRSSCacheTimeSetting" xml:space="preserve">
+    <value>Dakika cinsinden RSS önbellek süresi</value>
+  </data>
+  <data name="BlogRSSCacheTimeSettingRegexWarning" xml:space="preserve">
+    <value>Önbellek için bir tamsayı girmelisiniz. Varsayılan değer 120'dir</value>
+  </data>
+  <data name="BlogRSSLinkTitle" xml:space="preserve">
+    <value>RSS</value>
+  </data>
+  <data name="BlogShowAddFeedLinksSetting" xml:space="preserve">
+    <value>"RSS ekle" bağlantılarını göster</value>
+  </data>
+  <data name="BlogShowArchiveSetting" xml:space="preserve">
+    <value>Arşivi göster</value>
+  </data>
+  <data name="BlogShowCalendarSetting" xml:space="preserve">
+    <value>Takvimi göster</value>
+  </data>
+  <data name="BlogShowCategoriesSetting" xml:space="preserve">
+    <value>Kategorileri göster</value>
+  </data>
+  <data name="BlogShowFeedLinksSetting" xml:space="preserve">
+    <value>RSS ikonunu göster</value>
+  </data>
+  <data name="BlogShowStatisticsSetting" xml:space="preserve">
+    <value>İstatistikleri göster</value>
+  </data>
+  <data name="BlogStatisticsLabel" xml:space="preserve">
+    <value>İstatistik</value>
+  </data>
+  <data name="BlogToBePublishedLabel" xml:space="preserve">
+    <value>Yayınlanacak</value>
+  </data>
+  <data name="BlogUrlConflictWithPhysicalPageError" xml:space="preserve">
+    <value>Lütfen farklı bir adres giriniz. Girdiğiniz adres zaten var olan bir sayfaya denk geliyor.</value>
+  </data>
+  <data name="BlogUseCommentSpamBlocker" xml:space="preserve">
+    <value>Yorumda SPAM engelleme aktif?</value>
+  </data>
+  <data name="BlogUseExcerptSetting" xml:space="preserve">
+    <value>Özet kullanılsın mı?</value>
+  </data>
+  <data name="BlogUseLinkForHeading" xml:space="preserve">
+    <value>Başlıkları link haline getir</value>
+  </data>
+  <data name="AddThisButtonAltText" xml:space="preserve">
+    <value>Bunu paylaş.</value>
+  </data>
+  <data name="BlogAddCategoriesLabel" xml:space="preserve">
+    <value>Kategori ekle</value>
+  </data>
+  <data name="BlogAddCategoryButton" xml:space="preserve">
+    <value>Kategori ekle</value>
+  </data>
+  <data name="BlogAddCategoryButtonAccessKey" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="BlogAddPostLabel" xml:space="preserve">
+    <value>Yazı ekle</value>
+  </data>
+  <data name="BlogCommentPostCommentButtonAccessKey" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="BlogEditCancelButtonAccessKey" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="BlogEditDeleteButtonAccessKey" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="BlogEditUpdateButtonAccessKey" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ButtonDisabledPleaseWait" xml:space="preserve">
+    <value>Lütfen bekleyin...</value>
+  </data>
+  <data name="DeleteImageAltText" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <data name="EditImageAltText" xml:space="preserve">
+    <value>Bu yazıyı düzenle</value>
+  </data>
+  <data name="PageUrlInUseBlogErrorMessage" xml:space="preserve">
+    <value>Bu adres başka bir sayfa için kullanılıyor.</value>
+  </data>
+  <data name="PodcastLink" xml:space="preserve">
+    <value>Podcast</value>
+  </data>
+  <data name="WebSiteUrlRegexWarning" xml:space="preserve">
+    <value>Adres http:// yada https:// ile başlamalıdır.</value>
+  </data>
+  <data name="ContentNotifyOnComment" xml:space="preserve">
+    <value>Yorum eklendiğinde mail gönder</value>
+  </data>
+  <data name="EnableContentRatingSetting" xml:space="preserve">
+    <value>İçerik oylama aktif</value>
+  </data>
+  <data name="EnableRatingCommentsSetting" xml:space="preserve">
+    <value>Yorum oylama aktif</value>
+  </data>
+  <data name="GoogleMapEnableDirectionsSetting" xml:space="preserve">
+    <value>Yol tarifi aktif</value>
+  </data>
+  <data name="GoogleMapEnableLocalSearchSetting" xml:space="preserve">
+    <value>Yerel aramaları göster</value>
+  </data>
+  <data name="GoogleMapEnableMapTypeSetting" xml:space="preserve">
+    <value>Uydu ve arazi haritalarını göster</value>
+  </data>
+  <data name="GoogleMapEnableZoomSetting" xml:space="preserve">
+    <value>Zoom aracını göster</value>
+  </data>
+  <data name="GoogleMapHeightSetting" xml:space="preserve">
+    <value>Harita alanı yüksekliği</value>
+  </data>
+  <data name="GoogleMapInitialMapTypeSetting" xml:space="preserve">
+    <value>Varsayılan harita tipi</value>
+  </data>
+  <data name="GoogleMapInitialZoomSetting" xml:space="preserve">
+    <value>Harita için yakınlaştırma seviyesi</value>
+  </data>
+  <data name="GoogleMapShowInfoWindowSetting" xml:space="preserve">
+    <value>Konumu balonda göster</value>
+  </data>
+  <data name="GoogleMapWidthSetting" xml:space="preserve">
+    <value>Harita alanı genişliği</value>
+  </data>
+  <data name="OdiogoFeedIDSetting" xml:space="preserve">
+    <value>Odiogo Feed ID</value>
+  </data>
+  <data name="OdiogoPodcastUrlSetting" xml:space="preserve">
+    <value>Odiogo Podcast URL</value>
+  </data>
+  <data name="ShowPageLeftContentSetting" xml:space="preserve">
+    <value>Blog sayfasıdayken sol kısmın içeriğini göster</value>
+  </data>
+  <data name="ShowPageRightContentSetting" xml:space="preserve">
+    <value>Blog sayfasıdayken sağ kısmın içeriğini göster</value>
+  </data>
+  <data name="ContentTab" xml:space="preserve">
+    <value>İçerik</value>
+  </data>
+  <data name="ExcerptTab" xml:space="preserve">
+    <value>Özet</value>
+  </data>
+  <data name="MetaDescriptionLabel" xml:space="preserve">
+    <value>Meta Tanımları</value>
+  </data>
+  <data name="MetaKeywordsLabel" xml:space="preserve">
+    <value>Meta Kelimeleri</value>
+  </data>
+  <data name="MetaTab" xml:space="preserve">
+     <value>Meta Etiketleri</value>
+  </data>
+  <data name="UseExcerptInFeedSetting" xml:space="preserve">
+    <value>Özetler RSS beslemede görünsün mü?</value>
+  </data>
+  <data name="ShowPostAuthorSetting" xml:space="preserve">
+    <value>Yazar adını göster</value>
+  </data>
+  <data name="PostAuthorFormat" xml:space="preserve">
+    <value>{0} tarafından yazıldı</value>
+  </data>
+  <data name="AllowWebSiteUrlForComments" xml:space="preserve">
+    <value>Yorumlarda web sitesini göster?</value>
+  </data>
+  <data name="TitleRequiredWarning" xml:space="preserve">
+    <value>Başlık yazmadınız !</value>
+  </data>
+  <data name="RequireAuthenticationForComments" xml:space="preserve">
+    <value>Ziyaretçiler yorum yazabilsin?</value>
+  </data>
+  <data name="CommentsRequireAuthenticationMessage" xml:space="preserve">
+    <value>Yorum girebilmek için siteye üye olmalısınız.</value>
+  </data>
+  <data name="FriendlyUrlRegexWarning" xml:space="preserve">
+    <value>Adresler ~/ ile başlamalı ve içinde boşluk bulunmamalıdır.</value>
+  </data>
+  <data name="BlogAddThisButtonImageUrlSetting" xml:space="preserve">
+    <value>AddThis.com tuşu için resim adresi</value>
+  </data>
+  <data name="RSSAddCommentsLink" xml:space="preserve">
+    <value>RSS beslemesine yorumlar bağlantısı eklensin mi?</value>
+  </data>
+  <data name="RSSAddSignature" xml:space="preserve">
+    <value>RSS beslemesine imza eklensin mi?</value>
+  </data>
+  <data name="GoogleMapIncludeWithExcerptSetting" xml:space="preserve">
+    <value>Özet kullanılırken harita gösterilsin mi?</value>
+  </data>
+  <data name="ArchiveDateGridHeader" xml:space="preserve">
+    <value>Arşivde</value>
+  </data>
+  <data name="BlogEnableVersioningSetting" xml:space="preserve">
+    <value>Güncelleme kayıtları tutulsun mu?</value>
+  </data>
+  <data name="BlogVersionPageSizeSetting" xml:space="preserve">
+    <value>En fazla kaç kayıt tutulsun?</value>
+  </data>
+  <data name="CompareHistoryToCurrentLink" xml:space="preserve">
+    <value>Şimdiki ile karşılaştır</value>
+  </data>
+  <data name="CreatedDateGridHeader" xml:space="preserve">
+    <value>Oluşturuldu</value>
+  </data>
+  <data name="CurrentVersionHeadingFormat" xml:space="preserve">
+    <value>Şu anki versiyon : {0}</value>
+  </data>
+  <data name="DeleteAllHistoryButton" xml:space="preserve">
+    <value>Tüm kayıtları sil</value>
+  </data>
+  <data name="DeleteAllHistoryWarning" xml:space="preserve">
+    <value>Bu içerik için tüm eski kayıtları siliyorsunuz. Emin misiniz?</value>
+  </data>
+  <data name="DeleteHistoryButton" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <data name="DeleteHistoryItemWarning" xml:space="preserve">
+    <value>Bu kaydı silmek istiyor musunuz?</value>
+  </data>
+  <data name="DialogCloseLink" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="RestoreToEditorButton" xml:space="preserve">
+    <value>Editöre geri yükle</value>
+  </data>
+  <data name="VersionAsOfHeadingFormat" xml:space="preserve">
+    <value>{0}'ın versiyonu</value>
+  </data>
+  <data name="BlogUseTagCloudForCategoriesSetting" xml:space="preserve">
+    <value>Kategoriler için etiket bulutunu kulan</value>
+  </data>
+  <data name="BlogSearchName" xml:space="preserve">
+    <value>Bloglar</value>
+  </data>
+  <data name="ArchiveMetaDescriptionFormat" xml:space="preserve">
+    <value>{1} arşivleri: {0}</value>
+  </data>
+  <data name="CategoryMetaDescriptionFormat" xml:space="preserve">
+    <value>{0} kaynağından {1} altında etiketlenen öğeler</value>
+  </data>
+  <data name="EditPostPageTitle" xml:space="preserve">
+    <value>Blog Editörü</value>
+  </data>
+  <data name="BlogCommentForDaysDefault" xml:space="preserve">
+    <value>Yoruma açık gün sayısı</value>
+  </data>
+  <data name="HideDetailsFromUnauthencticated" xml:space="preserve">
+    <value>Ziyaretçilere sadece özet gösterilsin?</value>
+  </data>
+  <data name="MustSignInToViewFullPost" xml:space="preserve">
+    <value>Yazının tamamını görebilmeniz için sitye üye olmalısınız.</value>
+  </data>
+  <data name="DisqusSiteShortName" xml:space="preserve">
+    <value>Disqus için sitenin kısa adı</value>
+  </data>
+  <data name="CommentSystemSetting" xml:space="preserve">
+    <value>Yorumlar için kullanılacak sistem</value>
+  </data>
+  <data name="IntenseDebateAccountId" xml:space="preserve">
+    <value>IntenseDebate Hesap Id</value>
+  </data>
+  <data name="MapGetDirectionsButton" xml:space="preserve">
+    <value>Başlangıç noktası</value>
+  </data>
+  <data name="AddMetaButton" xml:space="preserve">
+    <value>Meta verisi ekle</value>
+  </data>
+  <data name="AddMetaLinkButton" xml:space="preserve">
+    <value>Meta bağlantısı ekle</value>
+  </data>
+  <data name="ContentMetaContentRequired" xml:space="preserve">
+    <value>İçerik boş bırakılamaz.</value>
+  </data>
+  <data name="ContentMetaDeleteWarning" xml:space="preserve">
+    <value>Bu meta verisini silmek istiyor musunuz?</value>
+  </data>
+  <data name="ContentMetaDirLabel" xml:space="preserve">
+    <value>Dir</value>
+  </data>
+  <data name="ContentMetaGridCancelButton" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="ContentMetaGridDeleteButton" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <data name="ContentMetaGridEditButton" xml:space="preserve">
+    <value>Düzenle</value>
+  </data>
+  <data name="ContentMetaGridMoveDownButton" xml:space="preserve">
+    <value>Aşağı kaydır</value>
+  </data>
+  <data name="ContentMetaGridMoveUpButton" xml:space="preserve">
+    <value>Yukarı kaydır</value>
+  </data>
+  <data name="ContentMetaGridUpdateButton" xml:space="preserve">
+    <value>Kaydet</value>
+  </data>
+  <data name="ContentMetaLangCodeLabel" xml:space="preserve">
+    <value>Lang</value>
+  </data>
+  <data name="ContentMetaLinkDeleteWarning" xml:space="preserve">
+    <value>Bu meta bağlantısını silmek istiyor musunuz?</value>
+  </data>
+  <data name="ContentMetaLinkHrefRequired" xml:space="preserve">
+    <value>Link (Href) girilmelidir.</value>
+  </data>
+  <data name="ContentMetaLinkRelRequired" xml:space="preserve">
+    <value>"Rel" değeri girilmelidir.</value>
+  </data>
+  <data name="ContentMetaMetaContentLabel" xml:space="preserve">
+    <value>İçerik</value>
+  </data>
+  <data name="ContentMetaMetaHrefLabel" xml:space="preserve">
+    <value>Href</value>
+  </data>
+  <data name="ContentMetaNameLabel" xml:space="preserve">
+    <value>İsim</value>
+  </data>
+  <data name="ContentMetaNameRequired" xml:space="preserve">
+    <value>İsim girmelisiniz.</value>
+  </data>
+  <data name="ContentMetaRelLabel" xml:space="preserve">
+    <value>Rel</value>
+  </data>
+  <data name="ContentMetaSchemeLabel" xml:space="preserve">
+    <value>Scheme</value>
+  </data>
+  <data name="ContentMetHrefLangLabel" xml:space="preserve">
+    <value>HrefLang</value>
+  </data>
+  <data name="MetaAdditionalLabel" xml:space="preserve">
+    <value>Ekstra Meta Etiketleri</value>
+  </data>
+  <data name="VersionHistory" xml:space="preserve">
+    <value>Güncellemelerin tarihçe kayıtları</value>
+  </data>
+  <data name="BlogDateTimeFormat" xml:space="preserve">
+    <value>Tarih/Zaman format dizisi</value>
+  </data>
+  <data name="IsPublishedLabel" xml:space="preserve">
+    <value>Yayınlansın</value>
+  </data>
+  <data name="BlogShowTitleOnlySetting" xml:space="preserve">
+    <value>Sadece konu başlıklarını listele</value>
+  </data>
+  <data name="SaveAndPreviewButton" xml:space="preserve">
+    <value>Kaydet ve göster</value>
+  </data>
+  <data name="BlogShowPagerInListSetting" xml:space="preserve">
+    <value>Sayfa sayıları gösterilsin mi?</value>
+  </data>
+  <data name="AddFacebookLikeToFeed" xml:space="preserve">
+    <value>Add Facebook Like To Feed?</value>
+  </data>
+  <data name="AddFeedDiscoveryLink" xml:space="preserve">
+    <value>Add Feed Discovery Link in Head?</value>
+  </data>
+  <data name="AddTweetThisToFeed" xml:space="preserve">
+    <value>Twitter'da Paylaş'ı RSS'e Ekle?</value>
+  </data>
+  <data name="CommentSystemSettings" xml:space="preserve">
+    <value>Sistem Yorum Ayarları</value>
+  </data>
+  <data name="CustomCssClassSetting" xml:space="preserve">
+    <value>Özel CSS Class</value>
+  </data>
+  <data name="CustomCssClassSettingRegexWarning" xml:space="preserve">
+    <value>Yanlış Özel CSS Class</value>
+  </data>
+  <data name="ExcerptModeSettings" xml:space="preserve">
+    <value>Alıntı Modu Ayarları</value>
+  </data>
+  <data name="FacebookLikeButtonHeight" xml:space="preserve">
+    <value>Facebook Like Button Height</value>
+  </data>
+  <data name="FacebookLikeButtonShowFaces" xml:space="preserve">
+    <value>Facebook Like Button Show Faces?</value>
+  </data>
+  <data name="FacebookLikeButtonTheme" xml:space="preserve">
+    <value>Facebook Like Button Theme</value>
+  </data>
+  <data name="FacebookLikeButtonWidth" xml:space="preserve">
+    <value>Facebook Like Button Width</value>
+  </data>
+  <data name="FeedSettings" xml:space="preserve">
+    <value>Feed Ayarları</value>
+  </data>
+  <data name="GeneralSettings" xml:space="preserve">
+    <value>Genel Ayarlar</value>
+  </data>
+  <data name="ListViewSettings" xml:space="preserve">
+    <value>Liste Görünümü Ayarları</value>
+  </data>
+  <data name="LowerSidebar" xml:space="preserve">
+    <value>Kenar Çubuğu Alt İçeriği</value>
+  </data>
+  <data name="MapSettings" xml:space="preserve">
+    <value>Harita Ayarları</value>
+  </data>
+  <data name="MiscellaneousSettings" xml:space="preserve">
+    <value>Çeşitli Ayarlar</value>
+  </data>
+  <data name="NavigationSettings" xml:space="preserve">
+    <value>Navigasyon Ayarları</value>
+  </data>
+  <data name="ParseDateFailureMessage" xml:space="preserve">
+    <value>Başlangıç tarihi ayrıştırılamadı.</value>
+  </data>
+  <data name="PostList" xml:space="preserve">
+    <value>İçerik</value>
+  </data>
+  <data name="ShowNextPreviousLinks" xml:space="preserve">
+    <value>Show Next/Previous Links in Blog Detail?</value>
+  </data>
+  <data name="ShowTweetThisLink" xml:space="preserve">
+    <value>Twitter'da Paylaş Linkini Göster?</value>
+  </data>
+  <data name="SidebarSettings" xml:space="preserve">
+    <value>Ekstra Kenar Çubuğu İçeriği</value>
+  </data>
+  <data name="SocialSettings" xml:space="preserve">
+    <value>Sosyal Ayarlar</value>
+  </data>
+  <data name="UpperSidebar" xml:space="preserve">
+    <value>Kenar Çubuğu Üst İçerik</value>
+  </data>
+  <data name="UseBingMap" xml:space="preserve">
+    <value>Bing Map Kullan?</value>
+  </data>
+  <data name="UseFacebookLikeButton" xml:space="preserve">
+    <value>Facebook Beğen Göster</value>
+  </data>
+  <data name="ShowPlusOneButton" xml:space="preserve">
+    <value>Artı Bir Düğmesi Gösterilsin mi?</value>
+  </data>
+  <data name="MaxMetaweblogRecentItems" xml:space="preserve">
+    <value>Meta Weblog API'si için Son Gönderilerde Gösterilecek Maksimum Öğe</value>
+  </data>
+  <data name="PostCategories" xml:space="preserve">
+    <value>Kategoriler:</value>
+  </data>
+  <data name="MaxFeedItems" xml:space="preserve">
+    <value>Feed'e Dahil Edilecek Maksimum Öğe Sayısı</value>
+  </data>
+  <data name="RelatedPosts" xml:space="preserve">
+    <value>İlgili Mesajlar</value>
+  </data>
+  <data name="RelatedItemsToShow" xml:space="preserve">
+    <value>Gösterilecek İlgili Öğeler</value>
+  </data>
+  <data name="Administration" xml:space="preserve">
+    <value>Yönetim</value>
+  </data>
+  <data name="AllowCommentTitle" xml:space="preserve">
+    <value>Yorum Başlığına İzin Ver</value>
+  </data>
+  <data name="AttachmentRequiresSaveInfo" xml:space="preserve">
+    <value>Ek Gerekli Bilgileri Kaydet</value>
+  </data>
+  <data name="Attachments" xml:space="preserve">
+    <value>Eklentiler</value>
+  </data>
+  <data name="BlogAdministration" xml:space="preserve">
+    <value>Blog Yönetimi</value>
+  </data>
+  <data name="BlogPostListFeatureName" xml:space="preserve">
+    <value>Blog Gönderisi Listesi Özellik Adı</value>
+  </data>
+  <data name="BlogRSSLinkTitleForCategoryFormat" xml:space="preserve">
+    <value>Kategori Formatı İçin Blog RSS Bağlantısı Başlığı</value>
+  </data>
+  <data name="BlogRSSLinkTitleFormat" xml:space="preserve">
+    <value>Blog RSS Bağlantı Başlığı Biçimi</value>
+  </data>
+  <data name="ContentMetaContentLabel" xml:space="preserve">
+    <value>İçerik Meta İçerik Etiketi</value>
+  </data>
+  <data name="ContentMetaHrefLabel" xml:space="preserve">
+    <value>İçerik Meta Href Etiketi</value>
+  </data>
+  <data name="ContentMetaHrefLangLabel" xml:space="preserve">
+    <value>İçerik Meta HrefLang Etiketi</value>
+  </data>
+  <data name="DefaultGenres" xml:space="preserve">
+    <value>Varsayılan Türler</value>
+  </data>
+  <data name="DefaultIncludeImageInExcerptChecked" xml:space="preserve">
+    <value>Varsayılan Alıntıdaki Resmi Dahil Et İşaretli</value>
+  </data>
+  <data name="DefaultIncludeImageInPostChecked" xml:space="preserve">
+    <value>Varsayılan Gönderideki Resmi Dahil Et Kontrol Edildi</value>
+  </data>
+  <data name="DefaultIncludeInNewsChecked" xml:space="preserve">
+    <value>Varsayılan Haber Kontrolüne Dahil Et</value>
+  </data>
+  <data name="DefaultPublicationLanguage" xml:space="preserve">
+    <value>Varsayılan Yayın Dili</value>
+  </data>
+  <data name="DefaultPublicationName" xml:space="preserve">
+    <value>Varsayılan Yayın Adı</value>
+  </data>
+  <data name="DefaultUrlPrefix" xml:space="preserve">
+    <value>Varsayılan URL Öneki</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>İndir</value>
+  </data>
+  <data name="EndDate" xml:space="preserve">
+    <value>Bitiş tarihi</value>
+  </data>
+  <data name="FeaturedImage" xml:space="preserve">
+    <value>Özellikli resim</value>
+  </data>
+  <data name="IncludeImageInExcerpt" xml:space="preserve">
+    <value>Resmi Alıntıya Dahil Et</value>
+  </data>
+  <data name="IncludeImageInPost" xml:space="preserve">
+    <value>Gönderiye Resmi Ekle</value>
+  </data>
+  <data name="IncludeInSearchIndex" xml:space="preserve">
+    <value>Arama İndeksine Dahil Et</value>
+  </data>
+  <data name="IncludeInSiteMap" xml:space="preserve">
+    <value>Site Haritası'na Ekle</value>
+  </data>
+  <data name="IsFeaturedPost" xml:space="preserve">
+    <value>Öne Çıkan Gönderi</value>
+  </data>
+  <data name="MetaContentPropertyRequired" xml:space="preserve">
+    <value>Meta İçeriği Özelliği Gerekli</value>
+  </data>
+  <data name="MetaNamePropertyRequired" xml:space="preserve">
+    <value>Meta Adı Özelliği Gerekli</value>
+  </data>
+  <data name="ShowAuthorBio" xml:space="preserve">
+    <value>Yayıncının Özgeçmişini Göster</value>
+  </data>
+  <data name="ShowAuthorPhoto" xml:space="preserve">
+    <value>Yayıncının Resmini Göster</value>
+  </data>
+  <data name="SubTitle" xml:space="preserve">
+    <value>Alt Başlık</value>
+  </data>
+  <data name="DraftsFormat" xml:space="preserve">
+    <value>Taslak Biçimi</value>
+  </data>
+  <data name="DropFile" xml:space="preserve">
+    <value>Dosyayı Sil (Drop)</value>
+  </data>
+  <data name="FreeSiteRegistration" xml:space="preserve">
+    <value>Ücretsiz Site Kaydı</value>
+  </data>
+  <data name="GoogleNewsSettings" xml:space="preserve">
+    <value>Google Haberler Ayarları</value>
+  </data>
+  <data name="HasExplicitContent" xml:space="preserve">
+    <value>Uygunsuz İçeriğe Sahip</value>
+  </data>
+  <data name="IncludeDownloadLinkForMediaAttachments" xml:space="preserve">
+    <value>Medya Ekleri İçin İndirme Bağlantısını Dahil Et</value>
+  </data>
+  <data name="IncludeInGoogleNews" xml:space="preserve">
+    <value>Google Haberler'e Dahil Et</value>
+  </data>
+  <data name="IncludeInNews" xml:space="preserve">
+    <value>Haberleri Dahil Et</value>
+  </data>
+  <data name="iTunesMainCategory" xml:space="preserve">
+    <value>iTunes Ana Kategorisi</value>
+  </data>
+  <data name="iTunesSubCategory" xml:space="preserve">
+    <value>iTunes Alt Kategorisi</value>
+  </data>
+  <data name="LanguageCode" xml:space="preserve">
+    <value>Dil kodu</value>
+  </data>
+  <data name="ManageCategories" xml:space="preserve">
+    <value>Kategorileri Yönetin</value>
+  </data>
+  <data name="DropFiles" xml:space="preserve">
+    <value>Dosyaları Bırak</value>
+  </data>
+  <data name="ManagingEditorEmail" xml:space="preserve">
+    <value>Editör E-postası Düzenle </value>
+  </data>
+  <data name="ManagingEditorName" xml:space="preserve">
+    <value>Editör İsmini Düzenle</value>
+  </data>
+  <data name="MapHeightRegexWarning" xml:space="preserve">
+    <value>Harita Yüksekliği Normal İfade Uyarısı</value>
+  </data>
+  <data name="MapWidthRegexWarning" xml:space="preserve">
+    <value>Normal İfade Uyarısıyla Eşleştirme</value>
+  </data>
+  <data name="MetaContentProperty" xml:space="preserve">
+    <value>Meta İçerik Özelliği</value>
+  </data>
+  <data name="MetaNameProperty" xml:space="preserve">
+    <value>Meta Ad Özelliği</value>
+  </data>
+  <data name="NewComment" xml:space="preserve">
+    <value>Yeni yorum</value>
+  </data>
+  <data name="NewPostOrDraft" xml:space="preserve">
+    <value>Yeni Gönderi veya Taslak</value>
+  </data>
+  <data name="NoPostListLayoutsInSkin" xml:space="preserve">
+    <value>Dış Görünümde Gönderi Listesi Düzeni Yok</value>
+  </data>
+  <data name="OpenAccess" xml:space="preserve">
+    <value>Açık Erişim</value>
+  </data>
+  <data name="ExpiredBlogPosts" xml:space="preserve">
+    <value>Süresi Dolan Blog Yazıları</value>
+  </data>
+  <data name="PaidSubscription" xml:space="preserve">
+    <value>Ücretli Abonelik</value>
+  </data>
+  <data name="PostListBlogInstance" xml:space="preserve">
+    <value>Gönderi Listesi Blog Örneği</value>
+  </data>
+  <data name="PostListItemsPerPage" xml:space="preserve">
+    <value>Sayfa Başına Gönderi Listesi Öğeleri</value>
+  </data>
+  <data name="PostListLayout" xml:space="preserve">
+    <value>Gönderi Listesi Düzeni</value>
+  </data>
+  <data name="PublicationAccess" xml:space="preserve">
+    <value>Yayın Erişimi</value>
+  </data>
+  <data name="PublicationGenres" xml:space="preserve">
+    <value>Yayın Türleri</value>
+  </data>
+  <data name="PublicationGeoLocation" xml:space="preserve">
+    <value>Yayın Coğrafi Konumu</value>
+  </data>
+  <data name="PublicationKeyWords" xml:space="preserve">
+    <value>Yayın Anahtar Kelimeler</value>
+  </data>
+  <data name="PublicationLanguage" xml:space="preserve">
+    <value>Yayın Dili</value>
+  </data>
+  <data name="PublicationName" xml:space="preserve">
+    <value>Yayın Adı</value>
+  </data>
+  <data name="ExpiredPostsFormat" xml:space="preserve">
+    <value>Süresi Dolan Yazı Biçimi</value>
+  </data>
+  <data name="PublicationStockTickers" xml:space="preserve">
+    <value>Yayın Stok Biletleme</value>
+  </data>
+  <data name="RequireApprovalForComments" xml:space="preserve">
+    <value>Yorumlar İçin Onay İste</value>
+  </data>
+  <data name="ShowAuthorAvatar" xml:space="preserve">
+    <value>Yazar Avatarını Göster</value>
+  </data>
+  <data name="ShowBlogSearchBox" xml:space="preserve">
+    <value>Blog Arama Kutusunu Göster</value>
+  </data>
+  <data name="ShowCalendarOnPostDetail" xml:space="preserve">
+    <value>Takvimi Gönderi Ayrıntılarında Göster</value>
+  </data>
+  <data name="ShowGoogleNewsTabInEditPage" xml:space="preserve">
+    <value>Düzenleme Sayfasında Google Haberler Sekmesini Göster</value>
+  </data>
+  <data name="SortCommentsDescending" xml:space="preserve">
+    <value>Yorumları Azalan Sırala</value>
+  </data>
+  <data name="Upload" xml:space="preserve">
+    <value>Upload</value>
+  </data>
+  <data name="UsePostTitleAsPageHeadingSetting" xml:space="preserve">
+    <value>Yazı Başlığını Sayfa Başlığı Ayarı Olarak Kullan</value>
+  </data>
+  <data name="ExtraCssClassSetting" xml:space="preserve">
+    <value>Ekstra Css Sınıf Ayarı</value>
+  </data>
+  <data name="FeaturedImageTab" xml:space="preserve">
+    <value>Öne Çıkan Resim </value>
+  </data>
+  <data name="FeedLogoUrl" xml:space="preserve">
+    <value>Feed Logo Url'si</value>
+  </data>
+  <data name="FileUpload" xml:space="preserve">
+    <value>Dosya Yükleme</value>
+  </data>
+  <data name="FirstLastFormat" xml:space="preserve">
+    <value>İlk Son Biçim {0} {1}</value>
+  </data>
+</root>

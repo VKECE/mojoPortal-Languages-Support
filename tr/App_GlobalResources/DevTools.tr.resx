@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Temizle</value>
   </data>
   <data name="DeleteSavedQuery" xml:space="preserve">
-    <value>Delete Saved Query</value>
+    <value>Kaydedilen Sorguyu Sil</value>
   </data>
   <data name="DesignTools" xml:space="preserve">
     <value>Dizayn Araçları</value>
   </data>
   <data name="DevToolsHeading" xml:space="preserve">
-    <value>Developer Tools</value>
+    <value>Geliştirme Araçları</value>
   </data>
   <data name="DisableCssCaching" xml:space="preserve">
-    <value>CSS Caching - Kapat</value>
+    <value>CSS Önbellek - Kapat</value>
   </data>
   <data name="EnableCssCaching" xml:space="preserve">
     <value>CSS Caching - Aç</value>
@@ -139,63 +139,63 @@
     <value>Execute Non Query</value>
   </data>
   <data name="ExecuteQuery" xml:space="preserve">
-    <value>Execute Query</value>
+    <value>Sorguyu Çalıştır</value>
   </data>
   <data name="LoadSavedQuery" xml:space="preserve">
-    <value>Load Saved Query</value>
+    <value>Kaydedilen Sorguyu Yükle</value>
   </data>
   <data name="NoQueryWarning" xml:space="preserve">
-    <value>You didn't enter a query</value>
+    <value>Bir sorgu girmediniz</value>
   </data>
   <data name="QueryNameRequired" xml:space="preserve">
-    <value>You must enter a name to save the query as</value>
+    <value>Sorguyu farklı kaydetmek için bir ad girmelisiniz</value>
   </data>
   <data name="QueryToolHeadingFormat" xml:space="preserve">
-    <value>{0} Query Tool</value>
+    <value>{0} Sorgu Araçları</value>
   </data>
   <data name="QueryToolLink" xml:space="preserve">
-    <value>Query Tool</value>
+    <value>Sorgu Araçları</value>
   </data>
   <data name="QueryToolWarning" xml:space="preserve">
-    <value>With great power comes great responsibility. It is possible to delete your site data with this tool. You should not use this unless you are a SQL expert and know what you are doing.</value>
+    <value>Büyük güç büyük sorumluluk getirir. Bu araç ile site verilerinizi silmeniz mümkündür. SQL uzmanı değilseniz ve ne yaptığınızı bilmiyorsanız bunu kullanmamalısınız.</value>
   </data>
   <data name="SavedQueries" xml:space="preserve">
-    <value>Saved Queries</value>
+    <value>Kayıtlı Sorgular</value>
   </data>
   <data name="SaveQueryAs" xml:space="preserve">
-    <value>Save Query As</value>
+    <value>Sorguyu Farklı Kaydet</value>
   </data>
   <data name="SelectButton" xml:space="preserve">
-    <value>Select</value>
+    <value>Select (Seç)</value>
   </data>
   <data name="ServerVariablesLink" xml:space="preserve">
-    <value>Server Variables</value>
+    <value>Sunucu Değişkenleri</value>
   </data>
   <data name="SqlQuery" xml:space="preserve">
-    <value>SQL Query</value>
+    <value>SQL Sorgusu</value>
   </data>
   <data name="Tables" xml:space="preserve">
-    <value>Tables</value>
+    <value>Tablolar</value>
   </data>
   <data name="CacheTool" xml:space="preserve">
-    <value>Cache Aracı</value>
+    <value>Önbellek Aracı</value>
   </data>
   <data name="DownloadSkin" xml:space="preserve">
-    <value>Download Skin</value>
+    <value>Site Teması İndir</value>
   </data>
   <data name="SkinManagement" xml:space="preserve">
     <value>Skin Yönetimi</value>
   </data>
   <data name="GenerateCss" xml:space="preserve">
-    <value>Generate CSS</value>
+    <value>CSS Oluştur</value>
   </data>
   <data name="LessInstructions" xml:space="preserve">
-    <value>Enter LESS code in the top and click the button to generate CSS in the bottom.</value>
+    <value>Üste LESS kodu girin ve alttaki CSS oluşturmak için düğmeyi tıklayın</value>
   </data>
   <data name="LessUtility" xml:space="preserve">
     <value>LESS Utility</value>
   </data>
   <data name="ExportQueryDataAsCSV" xml:space="preserve">
-    <value>Execute Query and Export as CSV</value>
+    <value>Sorguyu Çalıştır ve CSV olarak dosyayı indir</value>
   </data>
 </root>

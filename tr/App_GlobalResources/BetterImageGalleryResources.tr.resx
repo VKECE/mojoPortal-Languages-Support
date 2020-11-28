@@ -117,58 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccessDenied" xml:space="preserve">
-    <value>Erişim Yasak.</value>
+  <data name="DefaultLayout" xml:space="preserve">
+    <value>Varsayılan</value>
   </data>
-  <data name="AuthenticationFailed" xml:space="preserve">
-    <value>Kullanıcı kimlik doğrulaması başarısız.</value>
+  <data name="FeatureName" xml:space="preserve">
+    <value>Fotoğraf Galeri</value>
   </data>
-  <data name="ContentInstanceNotFound" xml:space="preserve">
-    <value>İçerik Örneği bulunamadı.</value>
+  <data name="FileSystemNotLoadedFromProvider" xml:space="preserve">
+    <value>{0} sağlayıcısından dosya sistemi yüklenemedi</value>
   </data>
-  <data name="DeletingPagesDisabled" xml:space="preserve">
-    <value>Sayfaların xmlrpc ile silinmesine bu sitede izin verilmiyor.</value>
+  <data name="FileSystemProviderNotLoaded" xml:space="preserve">
+    <value>{0} dosya sistemi sağlayıcısı yüklenemedi </value>
   </data>
-  <data name="DescendentParentsNotAllowed" xml:space="preserve">
-    <value>Seçilen üst sayfa geçerli değil. Mevcut sayfanın alt sayfaları üst sayfa olamaz.</value>
+  <data name="FolderGalleryPath" xml:space="preserve">
+    <value>Galeri Klasör Yolu</value>
   </data>
-  <data name="FileExtensionNotAllowed" xml:space="preserve">
-    <value>Dosya uzantısına izin verilmiyor.</value>
+  <data name="FolderNotFound" xml:space="preserve">
+    <value>Seçili galeri klasörü bulunamadı.</value>
   </data>
-  <data name="MetaweblogApiDisabled" xml:space="preserve">
-    <value>MetaWeblogApi bu sitede devre dışı bırakıldı.</value>
+  <data name="Layout" xml:space="preserve">
+    <value>Yerleşim</value>
   </data>
-  <data name="NoBlogConfigured" xml:space="preserve">
-    <value>Yapılandırılmış blog yok.</value>
+  <data name="NoLayoutsInSkin" xml:space="preserve">
+    <value>Dış görünümde özel görünüm olmadığından varsayılan görünüm kullanılacaktır.</value>
   </data>
-  <data name="NotAllowedParentPage" xml:space="preserve">
-    <value>Üzgünüz, seçili ana sayfanın altında alt sayfalar oluşturmanıza izin verilmiyor.</value>
-  </data>
-  <data name="NotAllowedToCreateRootPages" xml:space="preserve">
-    <value>Üzgünüz, kök seviyesinde sayfalar yaratmanıza izin verilmiyor.</value>
-  </data>
-  <data name="PageCantBeItsOwnParent" xml:space="preserve">
-    <value>Bir sayfanın kendi üst öğesi olamaz.</value>
-  </data>
-  <data name="PageEditingDisabled" xml:space="preserve">
-    <value>Bu sitede xmlrpc tarafından Sayfa Düzenlemeye izin verilmiyor.</value>
-  </data>
-  <data name="PageNotFound" xml:space="preserve">
-    <value>Sayfa bulunamadı.</value>
-  </data>
-  <data name="PagesOnly" xml:space="preserve">
-    <value>Yalnızca Sayfalar</value>
-  </data>
-  <data name="ParentPageNotFound" xml:space="preserve">
-    <value>Seçili üst sayfa bulunamadı.</value>
-  </data>
-  <data name="PostNotFound" xml:space="preserve">
-    <value>Gönderi bulunamadı.</value>
-  </data>
-  <data name="SiteValidationFailed" xml:space="preserve">
-    <value>Site doğrulaması başarısız oldu.</value>
-  </data>
-  <data name="SSLRequired" xml:space="preserve">
-    <value>Bu metaweblogapi'ye erişmek için https kullanmanız gerekir.</value>
+  <data name="SelectLayout" xml:space="preserve">
+    <value>Lütfen Seçin</value>
   </data>
 </root>
